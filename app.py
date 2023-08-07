@@ -368,7 +368,7 @@ if selected=="ML Model":
     st.title("COVID-19 Test Result Predictor")
 
     # Load the data
-    data = pd.read_csv("Data1.csv")
+    data = pd.read_csv("assets/Data1.csv")
 
     # Split into features and target variable
     X = data[["CtN", "CtE", "CtRdRp"]]
@@ -382,7 +382,7 @@ if selected=="ML Model":
     clf.fit(X_train, y_train)
 
     # Read the CSV file into a Pandas DataFrame
-    df = pd.read_csv('shivajinagar.csv')
+    df = pd.read_csv('assets/shivajinagar.csv')
 
     # Prompt the user to input a date in the specified format
     date_str = st.text_input('Enter a date in the format dd//mm//yy: ')
