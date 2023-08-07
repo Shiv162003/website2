@@ -368,7 +368,7 @@ if selected=="ML Model":
     st.title("COVID-19 Test Result Predictor")
 
     # Load the data
-    data = pd.read_csv("assets/Data1.csv")
+    data = pd.read_csv("assets/data1.csv")
 
     # Split into features and target variable
     X = data[["CtN", "CtE", "CtRdRp"]]
