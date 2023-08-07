@@ -1,0 +1,1301 @@
+Sr.No,Sample ID,Unnamed: 2,Date,Location,Kit used,CtN,CtE,CtRdRp,PCR_Result
+1,SSBS/M/2021/1,S/1,10/4/2021,Sanjeevan hospital Kothrud,Genepath,0,0,0,Negative
+2,SSBS/M/2021/2,S/2,10/4/2021,Kothrud Bus depot,Genepath,0,0,0,Negative
+3,SSBS/M/2021/3,S/3,10/4/2021,Karve road Kothrud,Genepath,0,0,0,Negative
+4,SSBS/M/2021/4,S/4,10/4/2021,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+5,SSBS/M/2021/5,S/5,10/4/2021,Shivajinagar,Genepath,0,0,0,Negative
+6,SSBS/M/2021/6,S/6,10/4/2021,"Pune/Mumbai Highway NH, Shivajinagar",Genepath,0,0,0,Negative
+7,SSBS/M/2021/7,S/7,10/5/2021,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+8,SSBS/M/2021/8,S/8,10/5/2021,Baner/Balewadi,Genepath,0,0,0,Negative
+9,SSBS/M/2021/9,S/9,10/5/2021,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+10,SSBS/M/2021/10,S/10,10/5/2021,Someshwarwadi,Genepath,0,0,0,Negative
+11,SSBS/M/2021/11,S/11,10/6/2021,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+12,SSBS/M/2021/12,S/12,10/6/2021,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+13,SSBS/M/2021/13,S/13,10/6/2021,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+14,SSBS/M/2021/14,S/14,10/6/2021,RTO office Yerwada,Genepath,0,0,0,Negative
+15,SSBS/M/2021/15,S/15,10/7/2021,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+16,SSBS/M/2021/16,S/16,10/7/2021,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+17,SSBS/M/2021/17,S/17,10/7/2021,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+18,SSBS/M/2021/18,S/18,10/7/2021,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+19,SSBS/M/2021/19,S/19,10/7/2021,Dapodi / Old sangvi Bridge,Genepath,31.6,33.2,33.7,Positive
+20,SSBS/M/2021/20,S/20,10/8/2021,Rahatni new DP road,Genepath,35.6,0,35.7,Positive
+21,SSBS/M/2021/21,S/21,10/8/2021,Kalewadi Adarsh Nagar,Genepath,36.9,0,37.8,Positive
+22,SSBS/M/2021/22,S/22,10/8/2021,"Wolf Colony, Pimpri",Genepath,40,0,0,Negative
+23,SSBS/M/2021/23,S/23,10/8/2021,"Phugewadi/Dapodi, sai service",Genepath,37.5,0,37.5,Negative
+24,SSBS/M/2021/24,S/24,10/8/2021,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+25,SSBS/M/2021/25,S/25,10/9/2021,Yerwada Old bund garden,Genepath,0,0,0,Negative
+26,SSBS/M/2021/26,S/26,10/9/2021,"Vishrantwadi, shantinagar",Genepath,37.5,36.1,38.7,Positive
+27,SSBS/M/2021/27,S/27,10/11/2021,Shivajinagar Vaidhawadi,Genepath,34.9,36.3,36,Positive
+28,SSBS/M/2021/28,S/28,10/11/2021,Shivajinagar Chaturshringi,Genepath,33,34.6,33.8,Positive
+29,SSBS/M/2021/29,S/29,10/11/2021,Sanjeevan hospital Kothrud,Genepath,34.6,35.8,35.3,Positive
+30,SSBS/M/2021/30,S/30,10/11/2021,Karve road Kothrud,Genepath,0,34.5,35.7,Positive
+31,SSBS/M/2021/31,S/31,10/11/2021,Warje Mumbai/Bangalore Highway,Genepath,34.6,36.9,35.5,Positive
+32,SSBS/M/2021/32,S/32,10/11/2021,Kothrud Bus depot,Genepath,32.3,33.5,34.1,Positive
+33,SSBS/M/2021/33,S/33,10/12/2021,Baner/Balewadi,Genepath,0,0,0,Negative
+34,SSBS/M/2021/34,S/34,10/12/2021,Jai bhavani nagar pashan,Genepath,0,0,0,Inconclusive
+35,SSBS/M/2021/35,S/35,10/12/2021,Someshwarwadi,Genepath,0,38.7,0,Negative
+36,SSBS/M/2021/36,S/36,10/12/2021,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,35.9,0,0,Negative
+37,SSBS/M/2021/37,S/37,10/12/2021,"Baner, Mahalunge Bridge",Genepath,36.1,0,37.2,Inconclusive
+38,SSBS/M/2021/38,S/38,13/10/2021,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+39,SSBS/M/2021/39,S/39,13/10/2021,"Shastrinagar, pimpri",Genepath,35.1,35.7,37,Positive
+40,SSBS/M/2021/40,S/40,13/10/2021,kasarwadi pimple gurav road,Genepath,35,36.4,35.2,Positive
+41,SSBS/M/2021/41,S/41,13/10/2021,"Pimple gurav, 60 feet road",Genepath,35.8,0,37.1,Positive
+42,SSBS/M/2021/42,S/42,13/10/2021,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+43,SSBS/M/2021/43,S/43,13/10/2021,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+44,SSBS/M/2021/44,S/44,13/10/2021,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+45,SSBS/M/2021/45,S/45,13/10/2021,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+46,SSBS/M/2021/46,S/46,13/10/2021,Kalewadi Adarsh Nagar,Genepath,35.6,38,36,Positive
+47,SSBS/M/2021/47,S/47,18/10/2021,Shivajinagar Chaturshringi,Genepath,0,0,0,Negative
+48,SSBS/M/2021/48,S/48,18/10/2021,Shivajinagar Vaidhawadi,Genepath,33.7,35.2,0,Positive
+49,SSBS/M/2021/49,S/49,18/10/2021,Sanjeevan hospital Kothrud,Genepath,0,0,0,Negative
+50,SSBS/M/2021/50,S/50,18/10/2021,Karve road Kothrud,Genepath,0,0,0,Negative
+51,SSBS/M/2021/51,S/51,18/10/2021,Warje Mumbai/Bangalore Highway,Genepath,36.3,36.9,0,Positive
+52,SSBS/M/2021/52,S/52,18/10/2021,Kothrud Bus depot,Genepath,37.2,37.6,0,Negative
+53,SSBS/M/2021/53,S/53,19/10/2021,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+54,SSBS/M/2021/54,S/54,19/10/2021,Baner/Balewadi,Genepath,33.8,36,37.5,Positive
+55,SSBS/M/2021/55,S/55,19/10/2021,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,37.8,0,0,Negative
+56,SSBS/M/2021/56,S/56,19/10/2021,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+57,SSBS/M/2021/57,S/57,19/10/2021,Someshwarwadi,Genepath,34.4,35.2,37.2,Negative
+58,SSBS/M/2021/58,S/58,19/10/2021,Jai bhavani nagar pashan,Genepath,34.7,0,37.7,Negative
+59,SSBS/M/2021/59,S/59,20/10/2021,Dattawadi under rajaram bridge,Genepath,36.4,36.5,37.8,Positive
+60,SSBS/M/2021/60,S/60,20/10/2021,"Vitthalwadi hingne, off sinhagad road",Genepath,35.1,35.6,38.3,Negative
+61,SSBS/M/2021/61,S/61,20/10/2021,Shivajinagar Juna bazaar,Genepath,0,0,0,Positive
+62,SSBS/M/2021/62,S/62,20/10/2021,Yerwada Old bund garden,Genepath,35.7,0,39,Positive
+63,SSBS/M/2021/63,S/63,20/10/2021,RTO office Yerwada,Genepath,0,0,0,Negative
+64,SSBS/M/2021/64,S/64,20/10/2021,"Vishrantwadi, shantinagar",Genepath,33.6,0,36.9,Positive
+65,SSBS/M/2021/65,S/65,21/10/2021,"Chinchwad, Aditya birla hospital",Genepath,39.6,0,39.8,Negative
+66,SSBS/M/2021/66,S/66,21/10/2021,"Shastrinagar, pimpri",Genepath,32.1,35.8,35.5,Positive
+67,SSBS/M/2021/67,S/67,21/10/2021,kasarwadi pimple gurav road,Genepath,35.8,37.1,0,Negative
+68,SSBS/M/2021/68,S/68,21/10/2021,"Pimple gurav, 60 feet road",Genepath,37.6,36.2,37.4,Negative
+69,SSBS/M/2021/69,S/69,21/10/2021,Dapodi / Old sangvi Bridge,Genepath,38.3,36.9,28.7,Negative
+70,SSBS/M/2021/70,S/70,22/10/2021,Rahatni new DP road,Genepath,0,37.3,0,Negative
+71,SSBS/M/2021/71,S/71,22/10/2021,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+72,SSBS/M/2021/72,S/72,22/10/2021,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+73,SSBS/M/2021/73,S/73,22/10/2021,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+74,SSBS/M/2021/74,S/74,22/10/2021,Shivajinagar Chaturshringi,Genepath,38.8,0,0,Negative
+75,SSBS/M/2021/75,S/75,25/10/2021,Shivajinagar Vaidhawadi,Genepath,0,0,0,Negative
+76,SSBS/M/2021/76,S/76,25/10/2021,Shivajinagar Chaturshringi,Genepath,0,0,0,Negative
+77,SSBS/M/2021/77,S/77,25/10/2021,Sanjeevan hospital Kothrud,Genepath,36.8,34.8,39,Positive
+78,SSBS/M/2021/78,S/78,25/10/2021,Karve road Kothrud,Genepath,0,0,0,Negative
+79,SSBS/M/2021/79,S/79,25/10/2021,Warje Mumbai/Bangalore Highway,Genepath,36.5,35,33.7,Positive
+80,SSBS/M/2021/80,S/80,25/10/2021,Kothrud Bus depot,Genepath,35.8,39.3,0,Negative
+81,SSBS/M/2021/81,S/81,26/10/2021,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+82,SSBS/M/2021/82,S/82,26/10/2021,Baner/Balewadi,Genepath,35.4,34.3,35.3,Positive
+83,SSBS/M/2021/83,S/83,26/10/2021,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+84,SSBS/M/2021/84,S/84,26/10/2021,"DP road, Botanical Garden, Aundh",Genepath,36.9,35.4,37,Positive
+85,SSBS/M/2021/85,S/85,26/10/2021,Someshwarwadi,Genepath,0,0,0,Negative
+86,SSBS/M/2021/86,S/86,26/10/2021,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+87,SSBS/M/2021/87,S/87,27/10/2021,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+88,SSBS/M/2021/88,S/88,27/10/2021,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+89,SSBS/M/2021/89,S/89,27/10/2021,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+90,SSBS/M/2021/90,S/90,27/10/2021,Yerwada Old bund garden,Genepath,0,0,0,Negative
+91,SSBS/M/2021/91,S/91,27/10/2021,RTO office Yerwada,Genepath,0,0,0,Negative
+92,SSBS/M/2021/92,S/92,27/10/2021,"Vishrantwadi, shantinagar",Genepath,0,0,0,Negative
+93,SSBS/W/2021/93,S/93,11/9/2021,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+94,SSBS/W/2021/94,S/94,11/9/2021,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+95,SSBS/W/2021/95,S/95,11/9/2021,Yerwada Old bund garden,Genepath,0,0,0,Negative
+96,SSBS/W/2021/96,S/96,11/9/2021,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+97,SSBS/W/2021/97,S/97,11/9/2021,RTO office Yerwada,Genepath,0,0,0,Negative
+98,SSBS/W/2021/98,S/98,11/9/2021,"Vishrantwadi, shantinagar",Genepath,0,0,0,Negative
+99,SSBS/W/2021/99,S/99,11/10/2021,Shivajinagar Vaidhawadi,Genepath,0,0,0,Negative
+100,SSBS/W/2021/100,S/100,11/10/2021,Shivajinagar Chaturshringi,Genepath,0,0,0,Negative
+101,SSBS/W/2021/101,S/101,11/10/2021,Sanjeevan hospital Kothrud,Genepath,0,0,0,Negative
+102,SSBS/W/2021/102,S/102,11/10/2021,Karve road Kothrud,Genepath,0,0,0,Negative
+103,SSBS/W/2021/103,S/103,11/10/2021,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+104,SSBS/W/2021/104,S/104,11/10/2021,Kothrud Bus depot,Genepath,0,0,0,Negative
+105,SSBS/W/2021/105,S/105,11/11/2021,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+106,SSBS/W/2021/106,S/106,11/11/2021,Baner/Balewadi,Genepath,0,0,0,Negative
+107,SSBS/W/2021/107,S/107,11/11/2021,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+108,SSBS/W/2021/108,S/108,11/11/2021,"DP road, Botanical Garden, Aundh",Genepath,39.4,38.1,38.5,Negative
+109,SSBS/W/2021/109,S/109,11/11/2021,Someshwarwadi,Genepath,0,0,0,Negative
+110,SSBS/W/2021/110,S/110,11/11/2021,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+111,SSBS/W/2021/111,S/111,11/12/2021,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+112,SSBS/W/2021/112,S/112,11/12/2021,"Shastrinagar, pimpri",Genepath,39.1,0,0,Negative
+113,SSBS/W/2021/113,S/113,11/12/2021,kasarwadi pimple gurav road,Genepath,0,38,0,Negative
+114,SSBS/W/2021/114,S/114,11/12/2021,"Pimple gurav, 60 feet road",Genepath,37.6,39.47,38.95,Negative
+115,SSBS/W/2021/115,S/115,11/12/2021,Dapodi / Old sangvi Bridge,Genepath,38.3,0,38.8,Negative
+116,SSBS/W/2021/116,S/116,15/11/2021,Shivajinagar Vaidhawadi,Genepath,0,0,38.6,Negative
+117,SSBS/W/2021/117,S/117,15/11/2021,Shivajinagar Chaturshringi,Genepath,0,0,0,Negative
+118,SSBS/W/2021/118,S/118,15/11/2021,Sanjeevan hospital Kothrud,Genepath,39.2,0,0,Negative
+119,SSBS/W/2021/119,S/119,15/11/2021,Karve road Kothrud,Genepath,0,0,0,Negative
+120,SSBS/W/2021/120,S/120,15/11/2021,Warje Mumbai/Bangalore Highway,Genepath,36.5,38.7,37,Negative
+121,SSBS/W/2021/121,S/121,15/11/2021,Kothrud Bus depot,Genepath,39.2,39,37.7,Negative
+122,SSBS/W/2021/122,S/122,16/10/2021,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+123,SSBS/W/2021/123,S/123,16/10/2021,Baner/Balewadi,Genepath,0,37,39.5,Negative
+124,SSBS/W/2021/124,S/124,16/10/2021,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+125,SSBS/W/2021/125,S/125,16/10/2021,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+126,SSBS/W/2021/126,S/126,16/10/2021,Someshwarwadi,Genepath,0,0,0,Negative
+127,SSBS/W/2021/127,S/127,16/10/2021,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+128,SSBS/W/2021/128,S/128,17/11/2021,Dattawadi under rajaram bridge,Genepath,0,39.1,0,Negative
+129,SSBS/W/2021/129,S/129,17/11/2021,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+130,SSBS/W/2021/130,S/130,17/11/2021,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+131,SSBS/W/2021/131,S/131,17/11/2021,Yerwada Old bund garden,Genepath,0,0,0,Negative
+132,SSBS/W/2021/132,S/132,17/11/2021,RTO office Yerwada,Genepath,0,0,0,Negative
+133,SSBS/W/2021/133,S/133,17/11/2021,"Vishrantwadi, shantinagar",Genepath,37.4,38.35,38.9,Negative
+134,SSBS/W/2021/134,S/134,18/11/2021,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+135,SSBS/W/2021/135,S/135,18/11/2021,"Shastrinagar, pimpri",Genepath,40.4,0,40.36,Negative
+136,SSBS/W/2021/136,S/136,18/11/2021,kasarwadi pimple gurav road,Genepath,41.2,39,39.75,Negative
+137,SSBS/W/2021/137,S/137,18/11/2021,"Pimple gurav, 60 feet road",Genepath,32.72,35,35,Positive
+138,SSBS/W/2021/138,S/138,18/11/2021,Dapodi / Old sangvi Bridge,Genepath,0,0,41,Negative
+139,SSBS/W/2021/139,S/139,19/11/2021,Rahatni new DP road,Genepath,37.1,36.57,36.4,Negative
+140,SSBS/W/2021/140,S/140,19/11/2021,Kalewadi Adarsh Nagar,Genepath,0,38.7,0,Negative
+141,SSBS/W/2021/141,S/141,19/11/2021,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+142,SSBS/W/2021/142,S/142,19/11/2021,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+143,SSBS/W/2021/143,S/143,19/11/2021,"Harris Bridge, Dapodi",Genepath,36.2,38.2,37.1,Negative
+144,SSBS/W/2021/144,S/144,22/11/2021,Shivajinagar Vaidhawadi,Genepath,35.76,36.7,37.3,Positive
+145,SSBS/W/2021/145,S/145,22/11/2021,Shivajinagar Chaturshringi,Genepath,0,38.5,0,Negative
+146,SSBS/W/2021/146,S/146,22/11/2021,Sanjeevan hospital Kothrud,Genepath,39.4,38.4,0,Negative
+147,SSBS/W/2021/147,S/147,22/11/2021,Karve road Kothrud,Genepath,0,0,0,Negative
+148,SSBS/W/2021/148,S/148,22/11/2021,Warje Mumbai/Bangalore Highway,Genepath,37.7,39,38.31,Negative
+149,SSBS/W/2021/149,S/149,22/11/2021,Kothrud Bus depot,Genepath,0,0,0,Negative
+150,SSBS/W/2021/150,S/150,23/11/2021,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+151,SSBS/W/2021/151,S/151,23/11/2021,Baner/Balewadi,Genepath,0,0,0,Negative
+152,SSBS/W/2021/152,S/152,23/11/2021,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+153,SSBS/W/2021/153,S/153,23/11/2021,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+154,SSBS/W/2021/154,S/154,23/11/2021,Someshwarwadi,Genepath,0,0,0,Negative
+155,SSBS/W/2021/155,S/155,23/11/2021,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+156,SSBS/W/2021/156,S/156,24/11/2021,Dattawadi under rajaram bridge,Genepath,0,0,40.5,Negative
+157,SSBS/W/2021/157,S/157,24/11/2021,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+158,SSBS/W/2021/158,S/158,24/11/2021,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+159,SSBS/W/2021/159,S/159,24/11/2021,Yerwada Old bund garden,Genepath,0,0,0,Negative
+160,SSBS/W/2021/160,S/160,24/11/2021,RTO office Yerwada,Genepath,0,0,0,Negative
+161,SSBS/W/2021/161,S/161,24/11/2021,"Vishrantwadi, shantinagar",Genepath,0,38.7,0,Negative
+162,SSBS/W/2021/162,S/162,25/11/2021,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+163,SSBS/W/2021/163,S/163,25/11/2021,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+164,SSBS/W/2021/164,S/164,25/11/2021,kasarwadi pimple gurav road,Genepath,35.6,38.2,37,Negative
+165,SSBS/W/2021/165,S/165,25/11/2021,"Pimple gurav, 60 feet road",Genepath,35.6,37.4,38.8,Negative
+166,SSBS/W/2021/166,S/166,25/11/2021,Dapodi / Old sangvi Bridge,Genepath,0,37.8,0,Negative
+167,SSBS/W/2021/167,S/167,26/11/2021,Rahatni new DP road,Genepath,0,0,0,Negative
+168,SSBS/W/2021/168,S/168,26/11/2021,Kalewadi Adarsh Nagar,Genepath,0,37.9,38.4,Negative
+169,SSBS/W/2021/169,S/169,26/11/2021,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+170,SSBS/W/2021/170,S/170,26/11/2021,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+171,SSBS/W/2021/171,S/171,26/11/2021,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+172,SSBS/W/2021/172,S/172,29/11/2021,Shivajinagar Vaidhawadi,Genepath,37.03,40,37.6,Negative
+173,SSBS/W/2021/173,S/173,29/11/2021,Shivajinagar Chaturshringi,Genepath,31.84,34,33.4,Positive
+174,SSBS/W/2021/174,S/174,29/11/2021,Sanjeevan hospital Kothrud,Genepath,0,36.7,35.43,Positive
+175,SSBS/W/2021/175,S/175,29/11/2021,Karve road Kothrud,Genepath,0,0,0,Negative
+176,SSBS/W/2021/176,S/176,29/11/2021,Warje Mumbai/Bangalore Highway,Genepath,33.32,36.5,36.33,Positive
+177,SSBS/W/2021/177,S/177,29/11/2021,Kothrud Bus depot,Genepath,0,0,0,Negative
+178,SSBS/W/2021/178,S/178,30/11/2021,"Baner, Mahalunge Bridge",Genepath,36,0,0,Negative
+179,SSBS/W/2021/179,S/179,30/11/2021,Baner/Balewadi,Genepath,0,37.96,35.93,Negative
+180,SSBS/W/2021/180,S/180,30/11/2021,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+181,SSBS/W/2021/181,S/181,30/11/2021,"DP road, Botanical Garden, Aundh",Genepath,0,37.7,36.6,Negative
+182,SSBS/W/2021/182,S/182,30/11/2021,Someshwarwadi,Genepath,0,0,37.6,Negative
+183,SSBS/W/2021/183,S/183,30/11/2021,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+184,SSBS/W/2021/184,S/184,12/1/2021,"Vitthalwadi hingne, off sinhagad road",Genepath,36.8,33.5,36.46,Positive
+185,SSBS/W/2021/185,S/185,12/1/2021,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+186,SSBS/W/2021/186,S/186,12/1/2021,Shivajinagar Juna bazaar,Genepath,36.8,40.5,0,Negative
+187,SSBS/W/2021/187,S/187,12/1/2021,Yerwada Old bund garden,Genepath,0,0,0,Negative
+188,SSBS/W/2021/188,S/188,12/1/2021,RTO office Yerwada,Genepath,36.26,35.24,0,Positive
+189,SSBS/W/2021/189,S/189,12/1/2021,"Vishrantwadi, shantinagar",Genepath,33.37,37.3,35.8,Positive
+190,SSBS/W/2021/190,S/190,12/3/2021,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+191,SSBS/W/2021/191,S/191,12/3/2021,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+192,SSBS/W/2021/192,S/192,12/3/2021,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+193,SSBS/W/2021/193,S/193,12/3/2021,"Pimple gurav, 60 feet road",Genepath,0,0,37.5,Negative
+194,SSBS/W/2021/194,S/194,12/3/2021,Dapodi / Old sangvi Bridge,Genepath,36.16,0,0,Negative
+195,SSBS/W/2021/195,S/195,12/4/2021,Rahatni new DP road,Genepath,0,38.43,0,Negative
+196,SSBS/W/2021/196,S/196,12/4/2021,Kalewadi Adarsh Nagar,Genepath,35.8,37.3,37.8,Negative
+197,SSBS/W/2021/197,S/197,12/4/2021,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+198,SSBS/W/2021/198,S/198,12/4/2021,"Phugewadi/Dapodi, sai service",Genepath,37.88,37.82,0,Negative
+199,SSBS/W/2021/199,S/199,12/4/2021,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+200,SSBS/W/2021/200,S/200,12/6/2021,Shivajinagar Vaidhawadi,Genepath,32.13,35.9,34.28,Positive
+201,SSBS/W/2021/201,S/201,12/6/2021,Shivajinagar Chaturshringi,Genepath,35.6,37.1,36.2,Positive
+202,SSBS/W/2021/202,S/202,12/6/2021,Sanjeevan hospital Kothrud,Genepath,0,0,0,Negative
+203,SSBS/W/2021/203,S/203,12/6/2021,Karve road Kothrud,Genepath,0,0,0,Negative
+204,SSBS/W/2021/204,S/204,12/6/2021,Warje Mumbai/Bangalore Highway,Genepath,34.41,36.3,36,Positive
+205,SSBS/W/2021/205,S/205,12/6/2021,Kothrud Bus depot,Genepath,0,0,37.8,Negative
+206,SSBS/W/2021/206,S/206,12/7/2021,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+207,SSBS/W/2021/207,S/207,12/7/2021,Baner/Balewadi,Genepath,36.3,0,37.5,Negative
+208,SSBS/W/2021/208,S/208,12/7/2021,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+209,SSBS/W/2021/209,S/209,12/7/2021,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+210,SSBS/W/2021/210,S/210,12/7/2021,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+211,SSBS/W/2021/211,S/211,12/7/2021,Someshwarwadi,Genepath,0,0,0,Negative
+212,SSBS/W/2021/212,S/212,12/8/2021,"Vishrantwadi, shantinagar",Genepath,35.48,0,38.2,Negative
+213,SSBS/W/2021/213,S/213,12/8/2021,RTO office Yerwada,Genepath,35.27,0,36.7,Positive
+214,SSBS/W/2021/214,S/214,12/8/2021,Yerwada Old bund garden,Genepath,0,0,0,Negative
+215,SSBS/W/2021/215,S/215,12/8/2021,Shivajinagar Juna bazaar,Genepath,32.31,35,34.46,Positive
+216,SSBS/W/2021/216,S/216,12/8/2021,Dattawadi under rajaram bridge,Genepath,36.7,0,0,Negative
+217,SSBS/W/2021/217,S/217,12/8/2021,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+218,SSBS/W/2021/218,S/218,12/9/2021,"Chinchwad, Aditya birla hospital",Genepath,0,14.9,0,Negative
+219,SSBS/W/2021/219,S/219,12/9/2021,"Shastrinagar, pimpri",Genepath,37.24,36.72,35.26,Positive
+220,SSBS/W/2021/220,S/220,12/9/2021,kasarwadi pimple gurav road,Genepath,38.67,15.71,16.71,Positive
+221,SSBS/W/2021/221,S/221,12/9/2021,"Pimple gurav, 60 feet road",Genepath,0,0,26.16,Positive
+222,SSBS/W/2021/222,S/222,12/9/2021,Dapodi / Old sangvi Bridge,Genepath,0,36.8,36.6,Positive
+223,SSBS/W/2021/223,S/223,12/10/2021,Rahatni new DP road,Genepath,36.9,35.81,0,Positive
+224,SSBS/W/2021/224,S/224,12/10/2021,Kalewadi Adarsh Nagar,Genepath,35.19,34.95,35.7,Positive
+225,SSBS/W/2021/225,S/225,12/10/2021,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+226,SSBS/W/2021/226,S/226,12/10/2021,"Phugewadi/Dapodi, sai service",Genepath,0,36.6,0,Negative
+227,SSBS/W/2021/227,S/227,12/10/2021,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+228,SSBS/W/2021/228,S/228,13/12/2021,Shivajinagar Vaidhawadi,Genepath,32,35,34,Positive
+229,SSBS/W/2021/229,S/229,13/12/2021,Shivajinagar Chaturshringi,Genepath,35,0,35,Positive
+230,SSBS/W/2021/230,S/230,13/12/2021,Sanjeevan hospital Kothrud,Genepath,34,39,36,Positive
+231,SSBS/W/2021/231,S/231,13/12/2021,Karve road Kothrud,Genepath,0,0,0,Negative
+232,SSBS/W/2021/232,S/232,13/12/2021,Warje Mumbai/Bangalore Highway,Genepath,33,38,30,Positive
+233,SSBS/W/2021/233,S/233,13/12/2021,Kothrud Bus depot,Genepath,0,0,0,Negative
+234,SSBS/W/2021/234,S/234,14/12/2021,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+235,SSBS/W/2021/235,S/235,14/12/2021,Baner/Balewadi,Genepath,0,0,0,Negative
+236,SSBS/W/2021/236,S/236,14/12/2021,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+237,SSBS/W/2021/237,S/237,14/12/2021,"DP road, Botanical Garden, Aundh",Genepath,32,36,35,Positive
+238,SSBS/W/2021/238,S/238,14/12/2021,Someshwarwadi,Genepath,0,0,0,Negative
+239,SSBS/W/2021/239,S/239,14/12/2021,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+240,SSBS/W/2021/240,S/240,15/12/2021,Dattawadi under rajaram bridge,Genepath,22,0,32,Positive
+241,SSBS/W/2021/241,S/241,15/12/2021,"Vitthalwadi hingne, off sinhagad road",Genepath,38,38,35,Negative
+242,SSBS/W/2021/242,S/242,15/12/2021,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+243,SSBS/W/2021/243,S/243,15/12/2021,Yerwada Old bund garden,Genepath,0,0,0,Negative
+244,SSBS/W/2021/244,S/244,15/12/2021,RTO office Yerwada,Genepath,33,35,33,Positive
+245,SSBS/W/2021/245,S/245,15/12/2021,"Vishrantwadi, shantinagar",Genepath,32,36,35,Positive
+246,SSBS/W/2021/246,S/246,16/12/2021,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+247,SSBS/W/2021/247,S/247,16/12/2021,"Shastrinagar, pimpri",Genepath,34,37,35,Positive
+248,SSBS/W/2021/248,S/248,16/12/2021,kasarwadi pimple gurav road,Genepath,33,36,34,Positive
+249,SSBS/W/2021/249,S/249,16/12/2021,"Pimple gurav, 60 feet road",Genepath,36,38,34,Positive
+250,SSBS/W/2021/250,S/250,16/12/2021,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+251,SSBS/W/2021/251,S/251,17/12/2021,Rahatni new DP road,Genepath,33,37,32,Positive
+252,SSBS/W/2021/252,S/252,17/12/2021,Kalewadi Adarsh Nagar,Genepath,32,35,33,Positive
+253,SSBS/W/2021/253,S/253,17/12/2021,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+254,SSBS/W/2021/254,S/254,17/12/2021,"Phugewadi/Dapodi, sai service",Genepath,35,36,35,Positive
+255,SSBS/W/2021/255,S/255,17/12/2021,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+256,SSBS/W/2021/256,S/256,20/12/2021,Shivajinagar Vaidhawadi,Genepath,34.82,37.43,34.61,Positive
+257,SSBS/W/2021/257,S/257,20/12/2021,Shivajinagar Chaturshringi,Genepath,32.82,36.02,34.46,Positive
+258,SSBS/W/2021/258,S/258,20/12/2021,Sanjeevan hospital Kothrud,Genepath,34.9,0,36.35,Positive
+259,SSBS/W/2021/259,S/259,20/12/2021,Karve road Kothrud,Genepath,0,0,0,Negative
+260,SSBS/W/2021/260,S/260,20/12/2021,Warje Mumbai/Bangalore Highway,Genepath,33.31,37.03,35.57,Positive
+261,SSBS/W/2021/261,S/261,20/12/2021,Kothrud Bus depot,Genepath,35.46,37.95,35.9,Positive
+262,SSBS/W/2021/262,S/262,21/12/2021,"DP road, Botanical Garden, Aundh",Genepath,32.32,35.8,35.06,Positive
+263,SSBS/W/2021/263,S/263,21/12/2021,Someshwarwadi,Genepath,0,0,0,Negative
+264,SSBS/W/2021/264,S/264,21/12/2021,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+265,SSBS/W/2021/265,S/265,21/12/2021,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,27.27,Negative
+266,SSBS/W/2021/266,S/266,21/12/2021,Baner/Balewadi,Genepath,34.2,36.5,37.88,Positive
+267,SSBS/W/2021/267,S/267,21/12/2021,"Baner, Mahalunge Bridge",Genepath,33.58,35.56,33.69,Positive
+268,SSBS/W/2021/268,S/268,22/12/2021,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+269,SSBS/W/2021/269,S/269,22/12/2021,"Vitthalwadi hingne, off sinhagad road",Genepath,34.62,36.92,34.18,Positive
+270,SSBS/W/2021/270,S/270,22/12/2021,Shivajinagar Juna bazaar,Genepath,33.18,36.31,33.77,Positive
+271,SSBS/W/2021/271,S/271,22/12/2021,Yerwada Old bund garden,Genepath,37.21,38.1,38.02,Negative
+272,SSBS/W/2021/272,S/272,22/12/2021,RTO office Yerwada,Genepath,36.05,38.25,34.91,Positive
+273,SSBS/W/2021/273,S/273,22/12/2021,"Vishrantwadi, shantinagar",Genepath,34.36,36.68,35.27,Positive
+274,SSBS/W/2021/274,S/274,23/12/2021,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+275,SSBS/W/2021/275,S/275,23/12/2021,"Shastrinagar, pimpri",Genepath,33.85,0,34.21,Positive
+276,SSBS/W/2021/276,S/276,23/12/2021,kasarwadi pimple gurav road,Genepath,32.23,36.94,35.75,Positive
+277,SSBS/W/2021/277,S/277,23/12/2021,"Pimple gurav, 60 feet road",Genepath,0,38.52,36.49,Negative
+278,SSBS/W/2021/278,S/278,23/12/2021,Dapodi / Old sangvi Bridge,Genepath,0,37.72,36.2,Negative
+279,SSBS/W/2021/279,S/279,24/12/2021,Rahatni new DP road,Genepath,0,0,0,Negative
+280,SSBS/W/2021/280,S/280,24/12/2021,Kalewadi Adarsh Nagar,Genepath,32.8,37.2,35.4,Positive
+281,SSBS/W/2021/281,S/281,24/12/2021,"Shastrinagar, pimpri",Genepath,35.1,0,37,Positive
+282,SSBS/W/2021/282,S/282,24/12/2021,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+283,SSBS/W/2021/283,S/283,24/12/2021,"Harris Bridge, Dapodi",Genepath,35.9,37.3,36.3,Positive
+284,SSBS/W/2021/284,S/284,27/12/2021,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+285,SSBS/W/2021/285,S/285,24/12/2021,Baner/Balewadi,Genepath,0,0,0,Negative
+286,SSBS/W/2021/286,S/286,24/12/2021,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+287,SSBS/W/2021/287,S/287,24/12/2021,Someshwarwadi,Genepath,0,0,0,Negative
+288,SSBS/W/2021/288,S/288,24/12/2021,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+289,SSBS/W/2021/289,S/289,28/12/2021,Shivajinagar Vaidhawadi,Genepath,34.3,37.4,36.3,Positive
+290,SSBS/W/2021/290,S/290,28/12/2021,Shivajinagar Chaturshringi,Genepath,32.82,37.5,35.1,Positive
+291,SSBS/W/2021/291,S/291,28/12/2021,Sanjeevan hospital Kothrud,Genepath,31.7,36.3,34.8,Positive
+292,SSBS/W/2021/292,S/292,28/12/2021,Karve road Kothrud,Genepath,0,0,0,Negative
+293,SSBS/W/2021/293,S/293,28/12/2021,Warje Mumbai/Bangalore Highway,Genepath,31.2,35.1,34.1,Positive
+294,SSBS/W/2021/294,S/294,28/12/2021,Kothrud Bus depot,Genepath,31.7,35.4,34,Positive
+295,SSBS/W/2021/295,S/295,29/12/2021,Dattawadi under rajaram bridge,Genepath,32.7,37,34.9,Positive
+296,SSBS/W/2021/296,S/296,29/12/2021,"Vitthalwadi hingne, off sinhagad road",Genepath,32.8,36.5,34.8,Positive
+297,SSBS/W/2021/297,S/297,29/12/2021,Shivajinagar Juna bazaar,Genepath,30.7,34.8,33,Positive
+298,SSBS/W/2021/298,S/298,29/12/2021,Yerwada Old bund garden,Genepath,0,0,0,Negative
+299,SSBS/W/2021/299,S/299,29/12/2021,RTO office Yerwada,Genepath,30.6,35.1,33.4,Positive
+300,SSBS/W/2021/300,S/300,29/12/2021,"Vishrantwadi, shantinagar",Genepath,31.6,35.6,34.3,Positive
+301,SSBS/W/2021/301,S/301,30/12/2021,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+302,SSBS/W/2021/302,S/302,30/12/2021,"Shastrinagar, pimpri",Genepath,32.3,35.1,33.5,Positive
+303,SSBS/W/2021/303,S/303,30/12/2021,kasarwadi pimple gurav road,Genepath,33.2,37.1,35.1,Positive
+304,SSBS/W/2021/304,S/304,30/12/2021,"Pimple gurav, 60 feet road",Genepath,29.7,34.9,32.8,Positive
+305,SSBS/W/2021/305,S/305,30/12/2021,Dapodi / Old sangvi Bridge,Genepath,33.6,38.9,36.7,Positive
+306,SSBS/W/2021/306,S/306,31/12/2021,Rahatni new DP road,Genepath,32.2,34.7,33.86,Positive
+307,SSBS/W/2021/307,S/307,31/12/2021,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+308,SSBS/W/2021/308,S/308,31/12/2021,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+319,SSBS/W/2021/309,S/309,31/12/2021,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+310,SSBS/W/2021/310,S/310,31/12/2021,"Harris Bridge, Dapodi",Genepath,33.1,36.3,34.8,Positive
+311,SSBS/W/2022/311,S/311,1/3/2022,Shivajinagar Vaidhawadi,Genepath,33.2,35.7,34.4,Positive
+312,SSBS/W/2022/312,S/312,1/3/2022,Shivajinagar Chaturshringi,Genepath,35.5,36.8,35.2,Positive
+313,SSBS/W/2022/313,S/313,1/3/2022,Sanjeevan hospital Kothrud,Genepath,0,0,0,Negative
+314,SSBS/W/2022/314,S/314,1/3/2022,Karve road Kothrud,Genepath,35.9,36.8,35.8,Positive
+315,SSBS/W/2022/315,S/315,1/3/2022,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+316,SSBS/W/2022/316,S/316,1/3/2022,Kothrud Bus depot,Genepath,0,0,0,Negative
+317,SSBS/W/2022/317,S/317,1/4/2022,Dattawadi under rajaram bridge,Genepath,33.9,36.4,34.4,Positive
+318,SSBS/W/2022/318,S/318,1/4/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,34.3,36.8,34.9,Positive
+319,SSBS/W/2022/319,S/319,1/4/2022,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+320,SSBS/W/2022/320,S/320,1/4/2022,Yerwada Old bund garden,Genepath,0,0,0,Negative
+321,SSBS/W/2022/321,S/321,1/4/2022,RTO office Yerwada,Genepath,0,0,0,Negative
+322,SSBS/W/2022/322,S/322,1/4/2022,"Vishrantwadi, shantinagar",Genepath,36.8,36.8,36.25,Positive
+323,SSBS/W/2022/323,S/323,1/5/2022,Someshwarwadi,Genepath,0,0,0,Negative
+324,SSBS/W/2022/324,S/324,1/5/2022,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+325,SSBS/W/2022/325,S/325,1/5/2022,Baner/Balewadi,Genepath,31.7,35,33.3,Positive
+326,SSBS/W/2022/326,S/326,1/5/2022,"Baner, Mahalunge Bridge",Genepath,31.3,34.8,33.9,Positive
+327,SSBS/W/2022/327,S/327,1/5/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+328,SSBS/W/2022/328,S/328,1/5/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+329,SSBS/W/2022/329,S/329,1/6/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+330,SSBS/W/2022/330,S/330,1/6/2022,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+331,SSBS/W/2022/331,S/331,1/6/2022,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+332,SSBS/W/2022/332,S/332,1/6/2022,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+333,SSBS/W/2022/333,S/333,1/6/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+334,SSBS/W/2021/334,S/334,1/7/2022,"Harris Bridge, Dapodi",Genepath,30.12,33.01,31.53,Positive
+335,SSBS/W/2021/335,S/335,1/7/2022,"Phugewadi/Dapodi, sai service",Genepath,32.9,35,34.27,Positive
+336,SSBS/W/2021/336,S/336,1/7/2022,"Wolf Colony, Pimpri",Genepath,29.6,32.44,31.31,Positive
+337,SSBS/W/2021/337,S/337,1/7/2022,"Phugewadi/Dapodi, sai service",Genepath,30.98,34.47,32.86,Positive
+338,SSBS/W/2021/338,S/338,1/7/2022,Rahatni new DP road,Genepath,30.55,32.91,32.07,Positive
+339,SSBS/W/2022/339,S/339,1/10/2022,Shivajinagar Vaidhawadi,Genepath,28.77,30.89,30.05,Positive
+340,SSBS/W/2022/340,S/340,1/10/2022,Shivajinagar Chaturshringi,Genepath,28.93,30.98,30.28,Positive
+341,SSBS/W/2022/341,S/341,1/10/2022,Sanjeevan hospital Kothrud,Genepath,30.03,32.16,31.52,Positive
+342,SSBS/W/2022/342,S/342,1/10/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+343,SSBS/W/2022/343,S/343,1/10/2022,Warje Mumbai/Bangalore Highway,Genepath,29.37,31.41,30.54,Positive
+344,SSBS/W/2022/344,S/344,1/10/2022,Kothrud Bus depot,Genepath,30.53,34.33,33.67,Positive
+345,SSBS/W/2022/345,S/345,1/11/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+346,SSBS/W/2022/346,S/346,1/11/2022,"DP road, Botanical Garden, Aundh",Genepath,28.31,31.38,31.06,Positive
+347,SSBS/W/2022/347,S/347,1/11/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+348,SSBS/W/2022/348,S/348,1/11/2022,Someshwarwadi,Genepath,30,33.49,33.46,Positive
+349,SSBS/W/2022/349,S/349,1/11/2022,Baner/Balewadi,Genepath,28.07,31.11,30.81,Positive
+350,SSBS/W/2022/350,S/350,1/11/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+351,SSBS/W/2022/351,S/351,1/12/2022,"Vishrantwadi, shantinagar",Genepath,28.39,32.75,31.9,Positive
+352,SSBS/W/2022/352,S/352,1/12/2022,RTO office Yerwada,Genepath,29.6,33.28,32.69,Positive
+353,SSBS/W/2022/353,S/353,1/12/2022,Yerwada Old bund garden,Genepath,31.12,34.02,34.83,Positive
+354,SSBS/W/2022/354,S/354,1/12/2022,Shivajinagar Juna bazaar,Genepath,28.84,32.64,32.22,Positive
+355,SSBS/W/2022/355,S/355,1/12/2022,Dattawadi under rajaram bridge,Genepath,28.83,32.55,32.21,Positive
+356,SSBS/W/2022/356,S/356,1/12/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,34.56,34.74,Positive
+357,SSBS/W/2022/357,S/357,13/01/2022,"Chinchwad, Aditya birla hospital",Genepath,29.53,32.2,32.32,Positive
+358,SSBS/W/2022/358,S/358,13/01/2022,"Shastrinagar, pimpri",Genepath,29.33,32.28,32.62,Positive
+359,SSBS/W/2022/359,S/359,13/01/2022,kasarwadi pimple gurav road,Genepath,28.03,31.4,31.15,Positive
+360,SSBS/W/2022/360,S/360,13/01/2022,"Pimple gurav, 60 feet road",Genepath,28.54,32.2,31.84,Positive
+361,SSBS/W/2022/361,S/361,13/01/2022,"Phugewadi/Dapodi, sai service",Genepath,30.47,33,32.95,Positive
+362,SSBS/W/2022/362,S/362,15/01/2022,Rahatni new DP road,Genepath,29.3,32,31.5,Positive
+363,SSBS/W/2022/363,S/363,15/01/2022,Kalewadi Adarsh Nagar,Genepath,28.6,33,31.4,Positive
+364,SSBS/W/2022/364,S/364,15/01/2022,"Wolf Colony, Pimpri",Genepath,32.4,35.6,34.5,Positive
+365,SSBS/W/2022/365,S/365,15/01/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+366,SSBS/W/2022/366,S/366,15/01/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+367,SSBS/W/2022/367,S/367,17/01/2022,Shivajinagar Vaidhawadi,Genepath,29.5,32.4,31.7,Positive
+368,SSBS/W/2022/368,S/368,17/01/2022,Shivajinagar Chaturshringi,Genepath,28.8,32.1,31.5,Positive
+369,SSBS/W/2022/369,S/369,17/01/2022,Sanjeevan hospital Kothrud,Genepath,29.1,32.3,31.8,Positive
+370,SSBS/W/2022/370,S/370,17/01/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+371,SSBS/W/2022/371,S/371,17/01/2022,Warje Mumbai/Bangalore Highway,Genepath,29.8,33.2,31,Positive
+372,SSBS/W/2022/372,S/372,17/01/2022,Kothrud Bus depot,Genepath,36.8,39,36.5,Positive
+373,SSBS/W/2022/373,S/373,18/01/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+374,SSBS/W/2022/374,S/374,18/01/2022,Baner/Balewadi,Genepath,34.6,38.6,35,Positive
+375,SSBS/W/2022/375,S/375,18/01/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+376,SSBS/W/2022/376,S/376,18/01/2022,"DP road, Botanical Garden, Aundh",Genepath,28.4,31.6,30.8,Positive
+377,SSBS/W/2022/377,S/377,18/01/2022,Someshwarwadi,Genepath,29.4,32.9,32.8,Positive
+378,SSBS/W/2022/378,S/378,18/01/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+379,SSBS/W/2022/379,S/379,19/01/2022,Dattawadi under rajaram bridge,Genepath,32.9,34.7,34.1,Positive
+380,SSBS/W/2022/380,S/380,19/01/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,34.9,37.5,35.3,Positive
+381,SSBS/W/2022/381,S/381,19/01/2022,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+382,SSBS/W/2022/382,S/382,19/01/2022,Yerwada Old bund garden,Genepath,32.7,35.6,34.6,Positive
+384,SSBS/W/2022/384,S/384,19/01/2022,"Vishrantwadi, shantinagar",Genepath,30.6,30.6,32,Positive
+385,SSBS/W/2022/385,S/385,20/01/2022,"Phugewadi/Dapodi, sai service",Genepath,30,33.8,32.9,Positive
+386,SSBS/W/2022/386,S/386,20/01/2022,"Pimple gurav, 60 feet road",Genepath,27.9,31.5,30.6,Positive
+387,SSBS/W/2022/387,S/387,20/01/2022,kasarwadi pimple gurav road,Genepath,26.4,29.5,28.3,Positive
+388,SSBS/W/2022/388,S/388,20/01/2022,"Shastrinagar, pimpri",Genepath,31,35.5,32.5,Positive
+394,SSBS/W/2022/394,S/394,24/01/2022,Shivajinagar Vaidhawadi,Genepath,32.9,32.9,34.3,Positive
+384,SSBS/W/2022/HBR/08,S/HBR/08,15/01/2022,Harris bridge river water,Genepath,35,37,35.7,Positive
+395,SSBS/W/2022/395,S/395,24/01/2022,Shivajinagar Chaturshringi,Genepath,0,0,0,Negative
+396,SSBS/W/2022/396,S/396,24/01/2022,Sanjeevan hospital Kothrud,Genepath,32.9,33.35,34.02,Positive
+397,SSBS/W/2022/397,S/397,24/01/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+398,SSBS/W/2022/398,S/398,24/01/2022,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+399,SSBS/W/2022/399,S/399,24/01/2022,Kothrud Bus depot,Genepath,33.3,33.7,32.3,Positive
+400,SSBS/W/2022/400,S/400,25/01/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+401,SSBS/W/2022/401,S/401,25/01/2022,Baner/Balewadi,Genepath,32.7,34,33.9,Positive
+402,SSBS/W/2022/402,S/402,25/01/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+403,SSBS/W/2022/403,S/403,25/01/2022,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+404,SSBS/W/2022/404,S/404,25/01/2022,Someshwarwadi,Genepath,0,0,0,Negative
+405,SSBS/W/2022/405,S/405,25/01/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+406,SSBS/W/2022/406,S/406,27/01/2022,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+407,SSBS/W/2022/407,S/407,27/01/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+408,SSBS/W/2022/408,S/408,27/01/2022,Shivajinagar Juna bazaar,Genepath,35.8,35.2,34.4,Positive
+409,SSBS/W/2022/409,S/409,27/01/2022,Yerwada Old bund garden,Genepath,36.1,35,35.4,Positive
+410,SSBS/W/2022/410,S/410,27/01/2022,RTO office Yerwada,Genepath,31.1,30.3,30.8,Positive
+411,SSBS/W/2022/411,S/411,27/01/2022,"Vishrantwadi, shantinagar",Genepath,0,0,0,Negative
+412,SSBS/W/2022/412,S/412,28/01/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+413,SSBS/W/2022/413,S/413,28/01/2022,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+414,SSBS/W/2022/414,S/414,28/01/2022,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+415,SSBS/W/2022/415,S/415,28/01/2022,"Shastrinagar, pimpri",Genepath,31.7,32.4,29.5,Positive
+416,SSBS/W/2022/416,S/416,28/01/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+417,SSBS/W/2022/417,S/417,29/01/2022,"Harris Bridge, Dapodi",Genepath,31.54,37.24,36.15,Positive
+418,SSBS/W/2022/418,S/418,29/01/2022,"Phugewadi/Dapodi, sai service",Genepath,32,36.58,35.12,Positive
+419,SSBS/W/2022/419,S/419,29/01/2022,"Shastrinagar, pimpri",Genepath,30.95,36.3,34.42,Positive
+420,SSBS/W/2022/420,S/420,29/01/2022,Kalewadi Adarsh Nagar,Genepath,29.97,35.23,35.08,Positive
+421,SSBS/W/2022/421,S/421,29/01/2022,Rahatni new DP road,Genepath,28.42,33.5,32.42,Positive
+422,SSBS/W/2022/422,S/422,31/01/2022,Shivajinagar Vaidhawadi,Genepath,29.32,33.88,32.23,Positive
+423,SSBS/W/2022/423,S/423,31/01/2022,Shivajinagar Chaturshringi,Genepath,29.84,34.4,33.1,Positive
+424,SSBS/W/2022/424,S/424,31/01/2022,Sanjeevan hospital Kothrud,Genepath,30.69,35.4,34.53,Positive
+425,SSBS/W/2022/425,S/425,31/01/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+426,SSBS/W/2022/426,S/426,31/01/2022,Warje Mumbai/Bangalore Highway,Genepath,30.11,34.98,34.57,Positive
+427,SSBS/W/2022/427,S/427,31/01/2022,Kothrud Bus depot,Genepath,30.49,36.1,35.62,Positive
+428,SSBS/W/2022/428,S/428,2/1/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+429,SSBS/W/2022/429,S/429,2/1/2022,"DP road, Botanical Garden, Aundh",Genepath,31.27,37.39,36.92,Positive
+430,SSBS/W/2022/430,S/430,2/1/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,31.28,37.55,36.23,Positive
+431,SSBS/W/2022/431,S/431,2/1/2022,Someshwarwadi,Genepath,33.13,38.45,37.11,Negative
+432,SSBS/W/2022/432,S/432,2/1/2022,Baner/Balewadi,Genepath,28.65,33.94,32.27,Positive
+433,SSBS/W/2022/433,S/433,2/1/2022,"Baner, Mahalunge Bridge",Genepath,30.25,37.37,36.84,Negative
+434,SSBS/W/2022/434,S/434,2/2/2022,Dattawadi under rajaram bridge,Genepath,30,34.66,33.45,Positive
+435,SSBS/W/2022/435,S/435,2/2/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,28.76,34.07,32.74,Positive
+436,SSBS/W/2022/436,S/436,2/2/2022,Shivajinagar Juna bazaar,Genepath,30.12,34.71,33.33,Positive
+437,SSBS/W/2022/437,S/437,2/2/2022,Yerwada Old bund garden,Genepath,32.84,35.73,34.88,Positive
+438,SSBS/W/2022/438,S/438,2/2/2022,"Vishrantwadi, shantinagar",Genepath,29.38,34.36,33.36,Positive
+439,SSBS/W/2022/439,S/439,2/2/2022,RTO office Yerwada,Genepath,30.57,35.46,34.18,Positive
+440,SSBS/W/2022/440,S/440,2/3/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+441,SSBS/W/2022/441,S/441,2/3/2022,"Shastrinagar, pimpri",Genepath,29.21,33.77,32.4,Positive
+442,SSBS/W/2022/442,S/442,2/3/2022,kasarwadi pimple gurav road,Genepath,30.38,34.98,33,Positive
+443,SSBS/W/2022/443,S/443,2/3/2022,"Pimple gurav, 60 feet road",Genepath,29.59,34.06,32.95,Positive
+444,SSBS/W/2022/444,S/444,2/3/2022,Dapodi / Old sangvi Bridge,Genepath,32.11,36.4,35.29,Positive
+445,SSBS/S/2022/445,S/445,2/4/2022,Rahatni new DP road,Genepath,37.19,36.56,36.07,Positive
+446,SSBS/S/2022/446,S/446,2/4/2022,Kalewadi Adarsh Nagar,Genepath,32.18,33.07,32.95,Positive
+447,SSBS/S/2022/447,S/447,2/4/2022,"Wolf Colony, Pimpri",Genepath,34.47,35.19,34.55,Positive
+448,SSBS/S/2022/448,S/448,2/4/2022,"Phugewadi/Dapodi, sai service",Genepath,35.72,35.62,35.81,Positive
+449,SSBS/S/2022/449,S/449,2/4/2022,"Harris Bridge, Dapodi",Genepath,36.8,35.89,35.87,Positive
+450,SSBS/S/2022/450,S/450,2/7/2022,Shivajinagar Vaidhawadi,Genepath,36,35,35.3,Positive
+451,SSBS/S/2022/451,S/451,2/7/2022,Shivajinagar Chaturshringi,Genepath,34.27,36.23,35.47,Positive
+452,SSBS/S/2022/452,S/452,2/7/2022,Sanjeevan hospital Kothrud,Genepath,33.38,34.15,34.05,Positive
+453,SSBS/S/2022/453,S/453,2/7/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+454,SSBS/S/2022/454,S/454,2/7/2022,Warje Mumbai/Bangalore Highway,Genepath,35.26,35.74,35.62,Positive
+455,SSBS/S/2022/455,S/455,2/7/2022,Kothrud Bus depot,Genepath,36.2,36,35.9,Positive
+456,SSBS/S/2022/456,S/456,2/8/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+457,SSBS/S/2022/457,S/457,2/8/2022,Someshwarwadi,Genepath,0,38.06,36.86,Negative
+458,SSBS/S/2022/458,S/458,2/8/2022,"DP road, Botanical Garden, Aundh",Genepath,37.45,39.87,36.6,Negative
+459,SSBS/S/2022/459,S/459,2/8/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,37.95,38.2,36,Negative
+460,SSBS/S/2022/460,S/460,2/8/2022,"Baner, Mahalunge Bridge",Genepath,32.6,33.5,33.1,Positive
+461,SSBS/S/2022/461,S/461,2/8/2022,Baner/Balewadi,Genepath,37.37,0,0,Negative
+462,SSBS/S/2022/462,S/462,2/9/2022,Dattawadi under rajaram bridge,Genepath,35.5,36.86,36.21,Positive
+463,SSBS/S/2022/463,S/463,2/9/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,37.2,36.7,36.9,Positive
+464,SSBS/S/2022/464,S/464,2/9/2022,Shivajinagar Juna bazaar,Genepath,40.5,38.36,38,Negative
+465,SSBS/S/2022/465,S/465,2/9/2022,Yerwada Old bund garden,Genepath,38.27,38.21,36.87,Negative
+466,SSBS/S/2022/466,S/466,2/9/2022,RTO office Yerwada,Genepath,34,34.66,34.82,Positive
+467,SSBS/S/2022/467,S/467,2/9/2022,"Vishrantwadi, shantinagar",Genepath,35.6,35.4,35,Positive
+468,SSBS/S/2022/468,S/468,2/10/2022,"Phugewadi/Dapodi, sai service",Genepath,34.7,34.4,35.3,Positive
+469,SSBS/S/2022/469,S/469,2/10/2022,"Pimple gurav, 60 feet road",Genepath,37.8,0,39,Negative
+470,SSBS/S/2022/470,S/470,2/10/2022,kasarwadi pimple gurav road,Genepath,36,36.6,35.3,Positive
+471,SSBS/S/2022/471,S/471,2/10/2022,"Shastrinagar, pimpri",Genepath,36.59,35.72,35.27,Positive
+472,SSBS/S/2022/472,S/472,2/10/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+473,SSBS/S/2022/473,S/473,2/11/2022,"Harris Bridge, Dapodi",Genepath,35.9,38.7,0,Negative
+474,SSBS/S/2022/474,S/474,2/11/2022,"Phugewadi/Dapodi, sai service",Genepath,34.9,37.3,37.74,Negative
+475,SSBS/S/2022/475,S/475,2/11/2022,"Wolf Colony, Pimpri",Genepath,34.4,36.7,35.2,Positive
+476,SSBS/S/2022/476,S/476,2/11/2022,Kalewadi Adarsh Nagar,Genepath,34,36.1,36.1,Positive
+477,SSBS/S/2022/477,S/477,2/11/2022,Rahatni new DP road,Genepath,34.6,36.1,34.9,Positive
+478,SSBS/S/2022/478,S/478,14/02/2022,Shivajinagar Vaidhawadi,Genepath,33.6,36.4,35.3,Positive
+479,SSBS/S/2022/479,S/479,14/02/2022,Shivajinagar Chaturshringi,Genepath,33.2,35.6,34.6,Positive
+480,SSBS/S/2022/480,S/480,14/02/2022,Sanjeevan hospital Kothrud,Genepath,36.1,38.6,37.3,Negative
+481,SSBS/S/2022/481,S/481,14/02/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+482,SSBS/S/2022/482,S/482,14/02/2022,Warje Mumbai/Bangalore Highway,Genepath,34.1,37.1,36.2,Positive
+483,SSBS/S/2022/483,S/483,14/02/2022,Kothrud Bus depot,Genepath,35.4,38.6,36.3, 
+484,SSBS/S/2022/484,S/484,15/02/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+485,SSBS/S/2022/485,S/485,15/02/2022,Someshwarwadi,Genepath,0,37.9,37.2,Negative
+486,SSBS/S/2022/486,S/486,15/02/2022,"DP road, Botanical Garden, Aundh",Genepath,35.3,37.6,35.6,Positive
+487,SSBS/S/2022/487,S/487,15/02/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,38.6,Negative
+488,SSBS/S/2022/488,S/488,15/02/2022,Baner/Balewadi,Genepath,0,0,39.6,Negative
+489,SSBS/S/2022/489,S/489,15/02/2022,"Baner, Mahalunge Bridge",Genepath,36.9,0,0,Negative
+490,SSBS/S/2022/490,S/490,16/02/2022,Dattawadi under rajaram bridge,Genepath,33.5,35.5,34.4,Positive
+491,SSBS/S/2022/491,S/491,16/02/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,33.9,35.8,35.2,Positive
+492,SSBS/S/2022/492,S/492,16/02/2022,Shivajinagar Juna bazaar,Genepath,35,36.8,36.3,Positive
+493,SSBS/S/2022/493,S/493,16/02/2022,Yerwada Old bund garden,Genepath,36.1,0,37.1,Negative
+494,SSBS/S/2022/494,S/494,16/02/2022,RTO office Yerwada,Genepath,35.5,36.9,35.3,Positive
+495,SSBS/S/2022/495,S/495,16/02/2022,"Vishrantwadi, shantinagar",Genepath,35.3,39.5,35.5,Positive
+496,SSBS/S/2022/496,S/496,17/02/2022,Dapodi / Old sangvi Bridge,Genepath,36.5,39.9,36.8,Positive
+497,SSBS/S/2022/497,S/497,17/02/2022,"Pimple gurav, 60 feet road",Genepath,36.67,35.6,36.7,Positive
+498,SSBS/S/2022/498,S/498,17/02/2022,kasarwadi pimple gurav road,Genepath,36.2,37,37.8,Negative
+499,SSBS/S/2022/499,S/499,17/02/2022,"Shastrinagar, pimpri",Genepath,33.5,35.4,34.5,Positive
+500,SSBS/S/2022/500,S/500,17/02/2022,"Chinchwad, Aditya birla hospital",Genepath,33.8,36.3,34.7,Positive
+501,SSBS/S/2022/501,S/501,18/02/2022,"Harris Bridge, Dapodi",Genepath,0,38.5,37.7,Negative
+502,SSBS/S/2022/502,S/502,18/02/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,37.74,Negative
+503,SSBS/S/2022/503,S/503,18/02/2022,"Wolf Colony, Pimpri",Genepath,35,37.67,37,Negative
+504,SSBS/S/2022/504,S/504,18/02/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+505,SSBS/S/2022/505,S/505,18/02/2022,Rahatni new DP road,Genepath,0,0,0,Negative
+506,SSBS/S/2022/506,S/506,21/02/2022,Shivajinagar Vaidhawadi,Genepath,34.16,35.38,34.51,Positive
+507,SSBS/S/2022/507,S/507,21/02/2022,Shivajinagar Chaturshringi,Genepath,36.26,37.29,34.88,Positive
+508,SSBS/S/2022/508,S/508,21/02/2022,Sanjeevan hospital Kothrud,Genepath,35.19,36.13,33.09,Positive
+509,SSBS/S/2022/509,S/509,21/02/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+510,SSBS/S/2022/510,S/510,21/02/2022,Warje Mumbai/Bangalore Highway,Genepath,35.88,36.93,35.5,Positive
+511,SSBS/S/2022/511,S/511,21/02/2022,Kothrud Bus depot,Genepath,36.57,37.07,34.58,Positive
+512,SSBS/S/2022/512,S/512,22/02/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+513,SSBS/S/2022/513,S/513,22/02/2022,Someshwarwadi,Genepath,36.87,37.41,33.84,Positive
+514,SSBS/S/2022/514,S/514,22/02/2022,"DP road, Botanical Garden, Aundh",Genepath,35.52,36.92,33.98,Positive
+515,SSBS/S/2022/515,S/515,22/02/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,36.38,38.58,23.38,Positive
+516,SSBS/S/2022/516,S/516,22/02/2022,Baner/Balewadi,Genepath,34.64,35.28,32.69,Positive
+517,SSBS/S/2022/517,S/517,22/02/2022,"Baner, Mahalunge Bridge",Genepath,35.96,35.58,28.72,Positive
+518,SSBS/S/2022/518,S/518,23/02/2022,Dattawadi under rajaram bridge,Genepath,36.63,39.09,35.14,Positive
+519,SSBS/S/2022/519,S/519,23/02/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,35.62,38.04,36.07,Positive
+520,SSBS/S/2022/520,S/520,23/02/2022,Shivajinagar Juna bazaar,Genepath,38.87,39.2,35.05,Negative
+521,SSBS/S/2022/521,S/521,23/02/2022,Yerwada Old bund garden,Genepath,0,0,0,Negative
+522,SSBS/S/2022/522,S/522,23/02/2022,RTO office Yerwada,Genepath,35.35,37.05,34.41,Positive
+523,SSBS/S/2022/523,S/523,23/02/2022,"Vishrantwadi, shantinagar",Genepath,35.69,37.8,35.08,Positive
+524,SSBS/S/2022/524,S/524,24/02/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+525,SSBS/S/2022/525,S/525,24/02/2022,"Shastrinagar, pimpri",Genepath,35,37.2,35.27,Positive
+526,SSBS/S/2022/526,S/526,24/02/2022,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+527,SSBS/S/2022/527,S/527,24/02/2022,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+528,SSBS/S/2022/528,S/528,24/02/2022,Dapodi / Old sangvi Bridge,Genepath,0,37.58,24.37,Negative
+529,SSBS/S/2022/529,S/529,25/02/2022,Rahatni new DP road,Genepath,36.53,38.39,36.83,Positive
+530,SSBS/S/2022/530,S/530,25/02/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+531,SSBS/S/2022/531,S/531,25/02/2022,"Wolf Colony, Pimpri",Genepath,36.03,0,37.65,Negative
+532,SSBS/S/2022/532,S/532,25/02/2022,"Phugewadi/Dapodi, sai service",Genepath,34.87,0,0,Negative
+533,SSBS/S/2022/533,S/533,25/02/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+534,SSBS/S/2022/534,S/534,28/02/2022,Kothrud Bus depot,Genepath,36.19,0,0,Negative
+535,SSBS/S/2022/535,S/535,28/02/2022,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+536,SSBS/S/2022/536,S/536,28/02/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+537,SSBS/S/2022/537,S/537,28/02/2022,Sanjeevan hospital Kothrud,Genepath,0,39.08,37.82,Negative
+538,SSBS/S/2022/538,S/538,28/02/2022,Shivajinagar Chaturshringi,Genepath,0,0,0,Negative
+539,SSBS/S/2022/539,S/539,28/02/2022,Shivajinagar Vaidhawadi,Genepath,0,0,0,Negative
+540,SSBS/S/2022/540,S/540,3/1/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+541,SSBS/S/2022/541,S/541,3/1/2022,Someshwarwadi,Genepath,0,0,0,Negative
+542,SSBS/S/2022/542,S/542,3/1/2022,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+543,SSBS/S/2022/543,S/543,3/1/2022,Baner/Balewadi,Genepath,35.16,37.81,36.62,Positive
+544,SSBS/S/2022/544,S/544,3/1/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+545,SSBS/S/2022/545,S/545,3/1/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+546,SSBS/S/2022/546,S/546,3/2/2022,"Vishrantwadi, shantinagar",Genepath,36.08,0,38.73,Negative
+547,SSBS/S/2022/547,S/547,3/2/2022,RTO office Yerwada,Genepath,36.73,39,0,Negative
+548,SSBS/S/2022/548,S/548,3/2/2022,Yerwada Old bund garden,Genepath,0,0,39.13,Negative
+549,SSBS/S/2022/549,S/549,3/2/2022,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+550,SSBS/S/2022/550,S/550,3/2/2022,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+551,SSBS/S/2022/551,S/551,3/2/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,37.07,0,38.72,Negative
+552,SSBS/S/2022/552,S/552,3/3/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+553,SSBS/S/2022/553,S/553,3/3/2022,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+554,SSBS/S/2022/554,S/554,3/3/2022,kasarwadi pimple gurav road,Genepath,37.07,37.07,39.43,Negative
+555,SSBS/S/2022/555,S/555,3/3/2022,"Pimple gurav, 60 feet road",Genepath,38.13,0,0,Negative
+556,SSBS/S/2022/556,S/556,3/3/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+557,SSBS/S/2022/557,S/557,3/4/2022,Rahatni new DP road,Genepath,31.58,36.72,36.54,Positive
+558,SSBS/S/2022/558,S/558,3/4/2022,Kalewadi Adarsh Nagar,Genepath,35.38,0,38.99,Negative
+559,SSBS/S/2022/559,S/559,3/4/2022,"Wolf Colony, Pimpri",Genepath,40.85,0,39.56,Negative
+560,SSBS/S/2022/560,S/560,3/4/2022,"Phugewadi/Dapodi, sai service",Genepath,36.74,0,40,Negative
+561,SSBS/S/2022/561,S/561,3/4/2022,"Harris Bridge, Dapodi",Genepath,37.21,0,39.77,Negative
+562,SSBS/S/2022/562,S/562,3/7/2022,Shivajinagar Vaidhawadi,Genepath,32,40,41,Negative
+563,SSBS/S/2022/563,S/563,3/7/2022,Shivajinagar Chaturshringi,Genepath,38.6,0,42.33,Negative
+564,SSBS/S/2022/564,S/564,3/7/2022,Sanjeevan hospital Kothrud,Genepath,38.13,0,39.56,Negative
+565,SSBS/S/2022/565,S/565,3/7/2022,Karve road Kothrud,Genepath,34.99,0,0,Negative
+566,SSBS/S/2022/566,S/566,3/7/2022,Warje Mumbai/Bangalore Highway,Genepath,36.73,37.87,0,Positive
+567,SSBS/S/2022/567,S/567,3/7/2022,Kothrud Bus depot,Genepath,39.72,0,40.66,Negative
+568,SSBS/S/2022/568,S/568,3/8/2022,"Baner, Mahalunge Bridge",Genepath,36.99,0,39.89,Negative
+569,SSBS/S/2022/569,S/569,3/8/2022,Baner/Balewadi,Genepath,33,35.84,0,Positive
+570,SSBS/S/2022/570,S/570,3/8/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,36.28,40,42.11,Negative
+571,SSBS/S/2022/571,S/571,3/8/2022,Someshwarwadi,Genepath,0,0,0,Negative
+572,SSBS/S/2022/572,S/572,3/8/2022,Jai bhavani nagar pashan,Genepath,34.99,0,0,Negative
+573,SSBS/S/2022/573,S/573,3/8/2022,"DP road, Botanical Garden, Aundh",Genepath,32.18,36.4,0,Positive
+574,SSBS/S/2022/574,S/574,3/9/2022,Dattawadi under rajaram bridge,Genepath,38.88,0,39.55,Negative
+575,SSBS/S/2022/575,S/575,3/9/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,38.73,0,38.78,Negative
+576,SSBS/S/2022/576,S/576,3/9/2022,Yerwada Old bund garden,Genepath,37.51,0,38.64,Negative
+577,SSBS/S/2022/577,S/577,3/9/2022,RTO office Yerwada,Genepath,39.27,0,40.12,Negative
+578,SSBS/S/2022/578,S/578,3/9/2022,Shivajinagar Juna bazaar,Genepath,37.43,0,38.95,Negative
+579,SSBS/S/2022/579,S/579,3/9/2022,"Vishrantwadi, shantinagar",Genepath,35.95,0,37.64,Positive
+580,SSBS/S/2022/580,S/580,3/10/2022,"Chinchwad, Aditya birla hospital",Genepath,37,41.3,0,Negative
+581,SSBS/S/2022/581,S/581,3/10/2022,kasarwadi pimple gurav road,Genepath,39.94,0,40.33,Negative
+582,SSBS/S/2022/582,S/582,3/10/2022,"Shastrinagar, pimpri",Genepath,38.66,0,41.55,Negative
+583,SSBS/S/2022/583,S/583,3/10/2022,"Pimple gurav, 60 feet road",Genepath,36.44,0,0,Negative
+584,SSBS/S/2022/584,S/584,3/10/2022,Dapodi / Old sangvi Bridge,Genepath,35.96,0,0,Negative
+585,SSBS/S/2022/585,S/585,3/11/2022,Rahatni new DP road,Genepath,0,0,0,Negative
+586,SSBS/S/2022/586,S/586,3/11/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+587,SSBS/S/2022/587,S/587,3/11/2022,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+588,SSBS/S/2022/588,S/588,3/11/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+589,SSBS/S/2022/589,S/589,3/11/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+590,SSBS/S/2022/590,S/590,14/03/2022,Shivajinagar Vaidhawadi,Genepath,0,39.27,0,Negative
+591,SSBS/S/2022/591,S/591,14/03/2022,Shivajinagar Chaturshringi,Genepath,0,36.53,0,Negative
+592,SSBS/S/2022/592,S/592,14/03/2022,Sanjeevan hospital Kothrud,Genepath,0,36.14,0,Negative
+593,SSBS/S/2022/593,S/593,14/03/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+594,SSBS/S/2022/594,S/594,14/03/2022,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+595,SSBS/S/2022/595,S/595,14/03/2022,Kothrud Bus depot,Genepath,0,0,0,Negative
+596,SSBS/S/2022/596,S/596,15/03/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+597,SSBS/S/2022/597,S/597,15/03/2022,Baner/Balewadi,Genepath,0,0,0,Negative
+598,SSBS/S/2022/598,S/598,15/03/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,39.66,0,Negative
+599,SSBS/S/2022/599,S/599,15/03/2022,Someshwarwadi,Genepath,0,0,0,Negative
+600,SSBS/S/2022/600,S/600,15/03/2022,Jai bhavani nagar pashan,Genepath,0,39,0,Negative
+601,SSBS/S/2022/601,S/601,15/03/2022,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+602,SSBS/S/2022/602,S/602,16/03/2022,Dattawadi under rajaram bridge,Genepath,0,39.36,0,Negative
+603,SSBS/S/2022/603,S/603,16/03/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,37.06,0,Negative
+604,SSBS/S/2022/604,S/604,16/03/2022,Shivajinagar Juna bazaar,Genepath,0,37.84,0,Negative
+605,SSBS/S/2022/605,S/605,16/03/2022,Yerwada Old bund garden,Genepath,0,0,0,Negative
+606,SSBS/S/2022/606,S/606,16/03/2022,RTO office Yerwada,Genepath,0,0,0,Negative
+607,SSBS/S/2022/607,S/607,16/03/2022,"Vishrantwadi, shantinagar",Genepath,0,0,0,Negative
+608,SSBS/S/2022/608,S/608,17/03/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+609,SSBS/S/2022/609,S/609,17/03/2022,"Pimple gurav, 60 feet road",Genepath,0,37.89,0,Negative
+610,SSBS/S/2022/610,S/610,17/03/2022,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+611,SSBS/S/2022/611,S/611,17/03/2022,"Shastrinagar, pimpri",Genepath,0,37.39,0,Negative
+612,SSBS/S/2022/612,S/612,17/03/2022,"Chinchwad, Aditya birla hospital",Genepath,0,37.99,0,Negative
+613,SSBS/S/2022/613,S/613,21/03/2022,Shivajinagar Vaidhawadi,Genepath,0,36.44,0,Negative
+614,SSBS/S/2022/614,S/614,21/03/2022,Shivajinagar Chaturshringi,Genepath,33.07,34.96,0,Positive
+615,SSBS/S/2022/615,S/615,21/03/2022,Sanjeevan hospital Kothrud,Genepath,0,37.32,0,Negative
+616,SSBS/S/2022/616,S/616,21/03/2022,Karve road Kothrud,Genepath,0,37.46,0,Negative
+617,SSBS/S/2022/617,S/617,21/03/2022,Warje Mumbai/Bangalore Highway,Genepath,0,35.92,0,Negative
+618,SSBS/S/2022/618,S/618,21/03/2022,Kothrud Bus depot,Genepath,0,37.17,0,Negative
+619,SSBS/S/2022/619,S/619,22/03/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+620,SSBS/S/2022/620,S/620,22/03/2022,Baner/Balewadi,Genepath,0,0,0,Negative
+621,SSBS/S/2022/621,S/621,22/03/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,38.6,0,Negative
+622,SSBS/S/2022/622,S/622,22/03/2022,Someshwarwadi,Genepath,0,38.35,0,Negative
+623,SSBS/S/2022/623,S/623,22/03/2022,Jai bhavani nagar pashan,Genepath,0,36.99,0,Negative
+624,SSBS/S/2022/624,S/624,22/03/2022,"DP road, Botanical Garden, Aundh",Genepath,0,37.02,0,Negative
+625,SSBS/S/2022/625,S/625,23/03/2022,Dattawadi under rajaram bridge,Genepath,0,34.76,0,Negative
+626,SSBS/S/2022/626,S/626,23/03/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,36.58,0,Negative
+627,SSBS/S/2022/627,S/627,23/03/2022,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+628,SSBS/S/2022/628,S/628,23/03/2022,Yerwada Old bund garden,Genepath,0,37.06,0,Negative
+629,SSBS/S/2022/629,S/629,23/03/2022,RTO office Yerwada,Genepath,0,37.86,37.2,Negative
+630,SSBS/S/2022/630,S/630,23/03/2022,"Vishrantwadi, shantinagar",Genepath,0,0,0,Negative
+631,SSBS/S/2022/631,S/631,24/03/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+632,SSBS/S/2022/632,S/632,24/03/2022,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+633,SSBS/S/2022/633,S/633,24/03/2022,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+634,SSBS/S/2022/634,S/634,24/03/2022,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+635,SSBS/S/2022/635,S/635,24/03/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+636,SSBS/S/2022/636,S/636,25/03/2022,Rahatni new DP road,Genepath,0,0,0,Negative
+637,SSBS/S/2022/637,S/637,25/03/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+638,SSBS/S/2022/638,S/638,25/03/2022,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+639,SSBS/S/2022/639,S/639,25/03/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+640,SSBS/S/2022/640,S/640,25/03/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+641,SSBS/S/2022/641,S/641,28/03/2021,Kothrud Bus depot,Genepath,0,0,0,Negative
+642,SSBS/S/2022/642,S/642,28/03/2021,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+643,SSBS/S/2022/643,S/643,28/03/2021,Karve road Kothrud,Genepath,0,0,0,Negative
+644,SSBS/S/2022/644,S/644,28/03/2021,Sanjeevan hospital Kothrud,Genepath,0,0,38.71,Negative
+645,SSBS/S/2022/645,S/645,28/03/2021,Shivajinagar Chaturshringi,Genepath,0,0,0,Negative
+646,SSBS/S/2022/646,S/646,28/03/2021,Shivajinagar Vaidhawadi,Genepath,0,0,0,Negative
+647,SSBS/S/2022/647,S/647,29/03/2022,Someshwarwadi,Genepath,0,0,0,Negative
+648,SSBS/S/2022/648,S/648,29/03/2022,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+649,SSBS/S/2022/649,S/649,29/03/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+650,SSBS/S/2022/650,S/650,29/03/2022,Baner/Balewadi,Genepath,0,0,0,Negative
+651,SSBS/S/2022/651,S/651,29/03/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+652,SSBS/S/2022/652,S/652,29/03/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+653,SSBS/S/2022/653,S/653,30/03/2022,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+654,SSBS/S/2022/654,S/654,30/03/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+655,SSBS/S/2022/655,S/655,30/03/2022,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+656,SSBS/S/2022/656,S/656,30/03/2022,Yerwada Old bund garden,Genepath,0,0,0,Negative
+657,SSBS/S/2022/657,S/657,30/03/2022,RTO office Yerwada,Genepath,0,0,0,Negative
+658,SSBS/S/2022/658,S/658,30/03/2022,"Vishrantwadi, shantinagar",Genepath,0,0,0,Negative
+659,SSBS/S/2022/659,S/659,31/03/2022,Dapodi / Old sangvi Bridge,Genepath,0,38.88,0,Negative
+660,SSBS/S/2022/660,S/660,31/03/2022,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+661,SSBS/S/2022/661,S/661,31/03/2022,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+662,SSBS/S/2022/662,S/662,31/03/2022,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+663,SSBS/S/2022/663,S/663,31/03/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+664,SSBS/S/2022/664,S/664,4/1/2022,Rahatni new DP road,Genepath,0,0,0,Negative
+665,SSBS/S/2022/665,S/665,4/1/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+666,SSBS/S/2022/666,S/666,4/1/2022,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+667,SSBS/S/2022/667,S/667,4/1/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+668,SSBS/S/2022/668,S/668,4/1/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+669,SSBS/S/2022/669,S/669,4/4/2022,Shivajinagar Vaidhawadi,Genepath,0,0,0,Negative
+670,SSBS/S/2022/670,S/670,4/4/2022,Shivajinagar Chaturshringi,Genepath,0,0,0,Negative
+671,SSBS/S/2022/671,S/671,4/4/2022,Sanjeevan hospital Kothrud,Genepath,0,0,0,Negative
+672,SSBS/S/2022/672,S/672,4/4/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+673,SSBS/S/2022/673,S/673,4/4/2022,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+674,SSBS/S/2022/674,S/674,4/5/2022,Kothrud Bus depot,Genepath,0,0,0,Negative
+675,SSBS/S/2022/675,S/675,4/5/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+676,SSBS/S/2022/676,S/676,4/5/2022,Baner/Balewadi,Genepath,0,0,0,Negative
+677,SSBS/S/2022/677,S/677,4/5/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+678,SSBS/S/2022/678,S/678,4/5/2022,Someshwarwadi,Genepath,0,0,0,Negative
+679,SSBS/S/2022/679,S/679,4/5/2022,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+0,SSBS/S/2022/680,S/680,4/6/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+681,SSBS/S/2022/681,S/681,4/6/2022,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+682,SSBS/S/2022/682,S/682,4/6/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+683,SSBS/S/2022/683,S/683,4/6/2022,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+684,SSBS/S/2022/684,S/684,4/6/2022,Yerwada Old bund garden,Genepath,0,0,0,Negative
+685,SSBS/S/2022/685,S/685,4/6/2022,RTO office Yerwada,Genepath,0,0,0,Negative
+686,SSBS/S/2022/686,S/686,4/7/2022,"Vishrantwadi, shantinagar",Genepath,0,39.1,0,Negative
+687,SSBS/S/2022/687,S/687,4/7/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+688,SSBS/S/2022/688,S/688,4/7/2022,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+689,SSBS/S/2022/689,S/689,4/7/2022,kasarwadi pimple gurav road,Genepath,0,36.9,0,Negative
+690,SSBS/S/2022/690,S/690,4/7/2022,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+691,SSBS/S/2022/691,S/691,4/7/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+692,SSBS/S/2022/692,S/692,4/8/2022,Rahatni new DP road,Genepath,0,0,0,Negative
+693,SSBS/S/2022/693,S/693,4/8/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+694,SSBS/S/2022/694,S/694,4/8/2022,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+695,SSBS/S/2022/695,S/695,4/8/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+696,SSBS/S/2022/696,S/696,4/8/2022,"Harris Bridge, Dapodi",Genepath,0,37.6,0,Negative
+697,SSBS/S/2022/697,S/697,4/11/2022,Shivajinagar Vaidhawadi,Genepath,0,0,0,Negative
+698,SSBS/S/2022/698,S/698,4/11/2022,Shivajinagar Chaturshringi,Genepath,0,0,0,Negative
+699,SSBS/S/2022/699,S/699,4/11/2022,Sanjeevan hospital Kothrud,Genepath,38.7,0,0,Negative
+700,SSBS/S/2022/700,S/700,4/11/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+701,SSBS/S/2022/701,S/701,4/11/2022,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+702,SSBS/S/2022/702,S/702,4/11/2022,Kothrud Bus depot,Genepath,0,0,0,Negative
+703,SSBS/S/2022/703,S/703,4/12/2022,Jai bhavani nagar pashan,Genepath,35.7,0,0,Negative
+704,SSBS/S/2022/704,S/704,4/12/2022,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+705,SSBS/S/2022/705,S/705,4/12/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+706,SSBS/S/2022/706,S/706,4/12/2022,Someshwarwadi,Genepath,0,0,0,Negative
+707,SSBS/S/2022/707,S/707,4/12/2022,Baner/Balewadi,Genepath,0,0,0,Negative
+708,SSBS/S/2022/708,S/708,4/12/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+709,SSBS/S/2022/709,S/709,13/04/2022,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+710,SSBS/S/2022/710,S/710,13/04/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+711,SSBS/S/2022/711,S/711,13/04/2022,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+712,SSBS/S/2022/712,S/712,13/04/2022,Yerwada Old bund garden,Genepath,0,0,0,Negative
+713,SSBS/S/2022/713,S/713,13/04/2022,RTO office Yerwada,Genepath,0,39.09025,0,Negative
+714,SSBS/S/2022/714,S/714,13/04/2022,"Vishrantwadi, shantinagar",Genepath,0,0,0,Negative
+715,SSBS/S/2022/715,S/715,15/04/2022,Rahatni new DP road,Genepath,0,0,0,Negative
+716,SSBS/S/2022/716,S/716,15/04/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+717,SSBS/S/2022/717,S/717,15/04/2022,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+718,SSBS/S/2022/718,S/718,15/04/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+719,SSBS/S/2022/719,S/719,15/04/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+720,SSBS/S/2022/720,S/720,18/04/2022,Shivajinagar Vaidhawadi,Genepath,0,0,0,Negative
+721,SSBS/S/2022/721,S/721,18/04/2022,Shivajinagar Chaturshringi,Genepath,0,0,0,Negative
+722,SSBS/S/2022/722,S/722,18/04/2022,Sanjeevan hospital Kothrud,Genepath,0,0,0,Negative
+723,SSBS/S/2022/723,S/723,18/04/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+724,SSBS/S/2022/724,S/724,18/04/2022,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+725,SSBS/S/2022/725,S/725,18/04/2022,Kothrud Bus depot,Genepath,0,0,0,Negative
+726,SSBS/S/2022/726,S/726,19/04/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+727,SSBS/S/2022/727,S/727,19/04/2022,Baner/Balewadi,Genepath,0,0,0,Negative
+728,SSBS/S/2022/728,S/728,19/04/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+729,SSBS/S/2022/729,S/729,19/04/2022,Someshwarwadi,Genepath,35,32,0,Positive
+730,SSBS/S/2022/730,S/730,19/04/2022,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+731,SSBS/S/2022/731,S/731,20/04/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+732,SSBS/S/2022/732,S/732,20/04/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+733,SSBS/S/2022/733,S/733,20/04/2022,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+734,SSBS/S/2022/734,S/734,20/04/2022,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+735,SSBS/S/2022/735,S/735,20/04/2022,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+736,SSBS/S/2022/736,S/736,21/04/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+737,SSBS/S/2022/737,S/737,21/04/2022,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+738,SSBS/S/2022/738,S/738,21/04/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+739,SSBS/S/2022/739,S/739,21/04/2022,Yerwada Old bund garden,Genepath,0,0,0,Negative
+740,SSBS/S/2022/740,S/740,21/04/2022,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+741,SSBS/S/2022/741,S/741,21/04/2022,RTO office Yerwada,Genepath,0,0,0,Negative
+742,SSBS/S/2022/742,S/742,22/04/2022,"Vishrantwadi, shantinagar",Genepath,0,0,0,Negative
+743,SSBS/S/2022/743,S/743,22/04/2022,Rahatni new DP road,Genepath,0,0,0,Negative
+744,SSBS/S/2022/744,S/744,22/04/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+745,SSBS/S/2022/745,S/745,22/04/2022,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+746,SSBS/S/2022/746,S/746,22/04/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+747,SSBS/S/2022/747,S/747,22/04/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+748,SSBS/S/2022/748,S/748,25/04/2022,Shivajinagar Vaidhawadi,Genepath,0,0,0,Negative
+749,SSBS/S/2022/749,S/749,25/04/2022,Shivajinagar Chaturshringi,Genepath,0,38.39294551,0,Negative
+750,SSBS/S/2022/750,S/750,25/04/2022,Sanjeevan hospital Kothrud,Genepath,0,0,0,Negative
+751,SSBS/S/2022/751,S/751,25/04/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+752,SSBS/S/2022/752,S/752,25/04/2022,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+753,SSBS/S/2022/753,S/753,25/04/2022,Kothrud Bus depot,Genepath,0,0,0,Negative
+754,SSBS/S/2022/754,S/754,26/04/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+755,SSBS/S/2022/755,S/755,26/04/2022,Baner/Balewadi,Genepath,0,38.29623084,0,Negative
+756,SSBS/S/2022/756,S/756,26/04/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+757,SSBS/S/2022/757,S/757,26/04/2022,Someshwarwadi,Genepath,0,39.13904722,0,Negative
+758,SSBS/S/2022/758,S/758,26/04/2022,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+759,SSBS/S/2022/759,S/759,26/04/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+760,SSBS/S/2022/760,S/760,27/04/2022,"Vishrantwadi, shantinagar",Genepath,0,0,0,Negative
+761,SSBS/S/2022/761,S/761,27/04/2022,RTO office Yerwada,Genepath,0,0,0,Negative
+762,SSBS/S/2022/762,S/762,27/04/2022,Yerwada Old bund garden,Genepath,0,0,0,Negative
+763,SSBS/S/2022/763,S/763,27/04/2022,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+764,SSBS/S/2022/764,S/764,27/04/2022,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+765,SSBS/S/2022/765,S/765,27/04/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,38.05666299,0,Negative
+766,SSBS/S/2022/766,S/766,28/04/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+767,SSBS/S/2022/767,S/767,28/04/2022,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+768,SSBS/S/2022/768,S/768,28/04/2022,kasarwadi pimple gurav road,Genepath,35.3946,36.905129,36.8197,Negative
+769,SSBS/S/2022/769,S/769,28/04/2022,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+770,SSBS/S/2022/770,S/770,28/04/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+771,SSBS/S/2022/771,S/771,29/04/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+772,SSBS/S/2022/772,S/772,29/04/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+773,SSBS/S/2022/773,S/773,29/04/2022,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+774,SSBS/S/2022/774,S/774,29/04/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+775,SSBS/S/2022/775,S/775,29/04/2022,Rahatni new DP road,Genepath,0,0,0,Negative
+776,SSBS/S/2022/776,S/776,5/2/2022,Shivajinagar Vaidhawadi,Genepath,0,0,0,Negative
+777,SSBS/S/2022/777,S/777,5/2/2022,Shivajinagar Chaturshringi,Genepath,0,0,0,Negative
+778,SSBS/S/2022/778,S/778,5/2/2022,Sanjeevan hospital Kothrud,Genepath,0,39.2,38.8,Negative
+779,SSBS/S/2022/779,S/779,5/2/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+780,SSBS/S/2022/780,S/780,5/2/2022,Warje Mumbai/Bangalore Highway,Genepath,40,0,39.8,Negative
+781,SSBS/S/2022/781,S/781,5/2/2022,Kothrud Bus depot,Genepath,0,0,0,Negative
+782,SSBS/S/2022/782,S/782,5/4/2022,"Baner, Mahalunge Bridge",Genepath,37.9,36.4,38.4,Negative
+783,SSBS/S/2022/783,S/783,5/4/2022,Baner/Balewadi,Genepath,34.8,37.6,36,Positive
+784,SSBS/S/2022/784,S/784,5/4/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+785,SSBS/S/2022/785,S/785,5/4/2022,Someshwarwadi,Genepath,0,40.4,0,Negative
+786,SSBS/S/2022/786,S/786,5/4/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+787,SSBS/S/2022/787,S/787,5/4/2022,"DP road, Botanical Garden, Aundh",Genepath,0,0,38.4,Negative
+788,SSBS/S/2022/788,S/788,5/5/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+789,SSBS/S/2022/789,S/789,5/5/2022,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+790,SSBS/S/2022/790,S/790,5/5/2022,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+791,SSBS/S/2022/791,S/791,5/5/2022,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+792,SSBS/S/2022/792,S/792,5/5/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+793,SSBS/S/2022/793,S/793,5/6/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+794,SSBS/S/2022/794,S/794,5/6/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+795,SSBS/S/2022/795,S/795,5/6/2022,"Wolf Colony, Pimpri",Genepath,33.7,36.8,34.1,Positive
+796,SSBS/S/2022/796,S/796,5/6/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+797,SSBS/S/2022/797,S/797,5/6/2022,Rahatni new DP road,Genepath,0,0,0,Negative
+798,SSBS/S/2022/798,S/798,5/9/2022,Shivajinagar Vaidhawadi,Genepath,0,0,0,Negative
+799,SSBS/S/2022/799,S/799,5/9/2022,Shivajinagar Chaturshringi,Genepath,0,0,0,Negative
+800,SSBS/S/2022/800,S/800,5/9/2022,Sanjeevan hospital Kothrud,Genepath,35.4,37.8,36.8,Negative
+801,SSBS/S/2022/801,S/801,5/9/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+802,SSBS/S/2022/802,S/802,5/9/2022,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+803,SSBS/S/2022/803,S/803,5/9/2022,Kothrud Bus depot,Genepath,0,38.6,36.1,Negative
+804,SSBS/S/2022/804,S/804,5/10/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+805,SSBS/S/2022/805,S/805,5/10/2022,Baner/Balewadi,Genepath,0,38.4,37.6,Negative
+806,SSBS/S/2022/806,S/806,5/10/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+807,SSBS/S/2022/807,S/807,5/10/2022,Someshwarwadi,Genepath,0,0,0,Negative
+808,SSBS/S/2022/808,S/808,5/10/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+809,SSBS/S/2022/809,S/809,5/10/2022,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+810,SSBS/S/2022/810,S/810,5/11/2022,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+811,SSBS/S/2022/811,S/811,5/11/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+812,SSBS/S/2022/812,S/812,5/11/2022,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+813,SSBS/S/2022/813,S/813,5/11/2022,Yerwada Old bund garden,Genepath,0,0,0,Negative
+814,SSBS/S/2022/814,S/814,5/11/2022,RTO office Yerwada,Genepath,0,0,37.14,Negative
+815,SSBS/S/2022/815,S/815,5/11/2022,"Vishrantwadi, shantinagar",Genepath,36.1,38.2,35.6,Positive
+816,SSBS/S/2022/816,S/816,5/12/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+817,SSBS/S/2022/817,S/817,5/12/2022,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+818,SSBS/S/2022/818,S/818,5/12/2022,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+819,SSBS/S/2022/819,S/819,5/12/2022,"Shastrinagar, pimpri",Genepath,37.6,0,0,Negative
+820,SSBS/S/2022/820,S/820,5/12/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+821,SSBS/S/2022/821,S/821,13/05/2022,Rahatni new DP road,Genepath,0,0,0,Negative
+822,SSBS/S/2022/822,S/822,13/05/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+823,SSBS/S/2022/823,S/823,13/05/2022,"Wolf Colony, Pimpri",Genepath,0,0,35.7,Negative
+824,SSBS/S/2022/824,S/824,13/05/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+825,SSBS/S/2022/825,S/825,13/05/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+826,SSBS/S/2022/826,S/826,16/05/2022,Shivajinagar Vaidhawadi,Genepath,0,0,0,Negative
+827,SSBS/S/2022/827,S/827,16/05/2022,Shivajinagar Chaturshringi,Genepath,0,0,0,Negative
+828,SSBS/S/2022/828,S/828,16/05/2022,Sanjeevan hospital Kothrud,Genepath,0,0,36,Negative
+829,SSBS/S/2022/829,S/829,16/05/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+830,SSBS/S/2022/830,S/830,16/05/2022,Warje Mumbai/Bangalore Highway,Genepath,34.9,0,0,Negative
+831,SSBS/S/2022/831,S/831,16/05/2022,Kothrud Bus depot,Genepath,34.8,0,36.5,Negative
+832,SSBS/S/2022/832,S/832,17/05/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+833,SSBS/S/2022/833,S/833,17/05/2022,Baner/Balewadi,Genepath,0,0,0,Negative
+834,SSBS/S/2022/834,S/834,17/05/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+835,SSBS/S/2022/835,S/835,17/05/2022,Someshwarwadi,Genepath,0,0,0,Negative
+836,SSBS/S/2022/836,S/836,17/05/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+837,SSBS/S/2022/837,S/837,17/05/2022,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+838,SSBS/S/2022/838,S/838,18/05/2022,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+839,SSBS/S/2022/839,S/839,18/05/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+840,SSBS/S/2022/840,S/840,18/05/2022,Shivajinagar Juna bazaar,Genepath,0,0,35,Negative
+841,SSBS/S/2022/841,S/841,18/05/2022,Yerwada Old bund garden,Genepath,0,0,0,Negative
+842,SSBS/S/2022/842,S/842,18/05/2022,RTO office Yerwada,Genepath,0,0,0,Negative
+843,SSBS/S/2022/843,S/843,18/05/2022,"Vishrantwadi, shantinagar",Genepath,0,0,0,Negative
+844,SSBS/S/2022/844,S/844,19/05/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+845,SSBS/S/2022/845,S/845,19/05/2022,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+846,SSBS/S/2022/846,S/846,19/05/2022,kasarwadi pimple gurav road,Genepath,0,0,35.5,Negative
+847,SSBS/S/2022/847,S/847,19/05/2022,"Shastrinagar, pimpri",Genepath,0,0,36.1,Negative
+848,SSBS/S/2022/848,S/848,19/05/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+849,SSBS/S/2022/849,S/849,20/05/2022,Rahatni new DP road,Genepath,0,0,0,Negative
+850,SSBS/S/2022/850,S/850,20/05/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+851,SSBS/S/2022/851,S/851,20/05/2022,"Wolf Colony, Pimpri",Genepath,0,0,0,Negative
+852,SSBS/S/2022/852,S/852,20/05/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+853,SSBS/S/2022/853,S/853,20/05/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+854,SSBS/S/2022/854,S/854,23/05/2022,Shivajinagar Vaidhawadi,Genepath,0,39,0,Negative
+855,SSBS/S/2022/855,S/855,23/05/2022,Shivajinagar Chaturshringi,Genepath,36,0,0,Negative
+856,SSBS/S/2022/856,S/856,23/05/2022,Sanjeevan hospital Kothrud,Genepath,38,0,0,Negative
+857,SSBS/S/2022/857,S/857,23/05/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+858,SSBS/S/2022/858,S/858,23/05/2022,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+859,SSBS/S/2022/859,S/859,23/05/2022,Kothrud Bus depot,Genepath,0,0,0,Negative
+860,SSBS/S/2022/860,S/860,24/05/2022,"Baner, Mahalunge Bridge",Genepath,0,0,40,Negative
+861,SSBS/S/2022/861,S/861,24/05/2022,Baner/Balewadi,Genepath,33,35,34,Positive
+862,SSBS/S/2022/862,S/862,24/05/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+863,SSBS/S/2022/863,S/863,24/05/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+864,SSBS/S/2022/864,S/864,24/05/2022,Someshwarwadi,Genepath,0,0,0,Negative
+865,SSBS/S/2022/865,S/865,24/05/2022,"DP road, Botanical Garden, Aundh",Genepath,40,0,40,Negative
+866,SSBS/S/2022/866,S/866,25/05/2022,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+867,SSBS/S/2022/867,S/867,25/05/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+868,SSBS/S/2022/868,S/868,25/05/2022,Shivajinagar Juna bazaar,Genepath,38,0,0,Negative
+869,SSBS/S/2022/869,S/869,25/05/2022,Yerwada Old bund garden,Genepath,0,0,0,Negative
+870,SSBS/S/2022/870,S/870,25/05/2022,RTO office Yerwada,Genepath,0,0,0,Negative
+871,SSBS/S/2022/871,S/871,25/05/2022,"Vishrantwadi, shantinagar",Genepath,36,36,36,Negative
+872,SSBS/S/2022/872,S/872,26/05/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+873,SSBS/S/2022/873,S/873,26/05/2022,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+874,SSBS/S/2022/874,S/874,26/05/2022,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+875,SSBS/S/2022/875,S/875,26/05/2022,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+876,SSBS/S/2022/876,S/876,26/05/2022,Dapodi / Old sangvi Bridge,Genepath,0,34.68,33.63,Positive
+877,SSBS/S/2022/877,S/877,27/05/2022,Rahatni new DP road,Genepath,35.98,34.84,36.57,Negative
+878,SSBS/S/2022/878,S/878,27/05/2022,Kalewadi Adarsh Nagar,Genepath,0,0,38.43,Negative
+879,SSBS/S/2022/879,S/879,27/05/2022,"Wolf Colony, Pimpri",Genepath,35.59,34.67,0,Negative
+880,SSBS/S/2022/880,S/880,27/05/2022,"Phugewadi/Dapodi, sai service",Genepath,0,33.93,0,Negative
+881,SSBS/S/2022/881,S/881,27/05/2022,"Harris Bridge, Dapodi",Genepath,0,34.55,0,Negative
+882,SSBS/S/2022/882,S/882,30/05/2022,Shivajinagar Vaidhawadi,Genepath,0,34.4,0,Negative
+883,SSBS/S/2022/883,S/883,30/05/2022,Shivajinagar Chaturshringi,Genepath,0,35,0,Negative
+884,SSBS/S/2022/884,S/884,30/05/2022,Sanjeevan hospital Kothrud,Genepath,37.2,34.6,37.48,Negative
+885,SSBS/S/2022/885,S/885,30/05/2022,Karve road Kothrud,Genepath,0,34.83,0,Negative
+886,SSBS/S/2022/886,S/886,30/05/2022,Warje Mumbai/Bangalore Highway,Genepath,0,34.31,0,Negative
+887,SSBS/S/2022/887,S/887,30/05/2022,Kothrud Bus depot,Genepath,34.79,34.1,0,Positive
+888,SSBS/S/2022/888,S/888,31/05/2022,"Baner, Mahalunge Bridge",Genepath,35.73,34.05,0,Negative
+889,SSBS/S/2022/889,S/889,31/05/2022,Baner/Balewadi,Genepath,34.6,34.01,0,Positive
+890,SSBS/S/2022/890,S/890,31/05/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,34.69,0,Negative
+891,SSBS/S/2022/891,S/891,31/05/2022,Someshwarwadi,Genepath,36.01,34,0,Negative
+892,SSBS/S/2022/892,S/892,31/05/2022,Jai bhavani nagar pashan,Genepath,0,35.95,0,Negative
+893,SSBS/S/2022/893,S/893,31/05/2022,"DP road, Botanical Garden, Aundh",Genepath,34.67,34.34,0,Positive
+894,SSBS/S/2022/894,S/894,6/1/2022,Dattawadi under rajaram bridge,Genepath,0,34.66,0,Negative
+895,SSBS/S/2022/895,S/895,6/1/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,34.56,0,Negative
+896,SSBS/S/2022/896,S/896,6/1/2022,Shivajinagar Juna bazaar,Genepath,0,35.53,37.07,Negative
+897,SSBS/S/2022/897,S/897,6/1/2022,RTO office Yerwada,Genepath,0,33.46,0,Negative
+898,SSBS/S/2022/898,S/898,6/1/2022,"Vishrantwadi, shantinagar",Genepath,35.01,32.56,34.26,Positive
+899,SSBS/S/2022/899,S/899,6/2/2022,"Chinchwad, Aditya birla hospital",Genepath,0,35.05,0,Negative
+900,SSBS/S/2022/900,S/900,6/2/2022,"Shastrinagar, pimpri",Genepath,35.24,34.72,0,Negative
+901,SSBS/S/2022/901,S/901,6/2/2022,kasarwadi pimple gurav road,Genepath,36.38,33.9,0,Negative
+902,SSBS/S/2022/902,S/902,6/2/2022,"Pimple gurav, 60 feet road",Genepath,0,34.43,0,Negative
+903,SSBS/S/2022/903,S/903,6/2/2022,Dapodi / Old sangvi Bridge,Genepath,0,34.55,0,Negative
+904,SSBS/S/2022/904,S/904,6/3/2022,Rahatni new DP road,Genepath,0,36,35,Negative
+905,SSBS/S/2022/905,S/905,6/3/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+906,SSBS/S/2022/906,S/906,6/3/2022,"Wolf Colony, Pimpri",Genepath,0,0,39,Negative
+907,SSBS/S/2022/907,S/907,6/3/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+908,SSBS/S/2022/908,S/908,6/3/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+909,SSBS/S/2022/909,S/909,6/6/2022,Shivajinagar Vaidhawadi,Genepath,35.51,37.23,36.57,Negative
+910,SSBS/S/2022/910,S/910,6/6/2022,Shivajinagar Chaturshringi,Genepath,35.69,37.77,37.88,Negative
+911,SSBS/S/2022/911,S/911,6/6/2022,Sanjeevan hospital Kothrud,Genepath,36.04,37.17,37.31,Negative
+912,SSBS/S/2022/912,S/912,6/6/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+913,SSBS/S/2022/913,S/913,6/6/2022,Warje Mumbai/Bangalore Highway,Genepath,33.62,34.52,34.61,Positive
+914,SSBS/S/2022/914,S/914,6/6/2022,Kothrud Bus depot,Genepath,0,0,0,Negative
+915,SSBS/S/2022/915,S/915,6/7/2022,"Baner, Mahalunge Bridge",Genepath,34.3,36.74,37.26,Negative
+916,SSBS/S/2022/916,S/916,6/7/2022,Baner/Balewadi,Genepath,31.34,33.04,32.92,Positive
+917,SSBS/S/2022/917,S/917,6/7/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+918,SSBS/S/2022/918,S/918,6/7/2022,Someshwarwadi,Genepath,37.4,0,0,Negative
+919,SSBS/S/2022/919,S/919,6/7/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+920,SSBS/S/2022/920,S/920,6/7/2022,"DP road, Botanical Garden, Aundh",Genepath,0,0,0,Negative
+921,SSBS/S/2022/921,S/921,6/8/2022,Dattawadi under rajaram bridge,Genepath,32.36,34.59,33.8,Positive
+922,SSBS/S/2022/922,S/922,6/8/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+923,SSBS/S/2022/923,S/923,6/8/2022,Shivajinagar Juna bazaar,Genepath,34.63,36.28,36.11,Negative
+924,SSBS/S/2022/924,S/924,6/8/2022,RTO office Yerwada,Genepath,35.66,36.29,36.63,Negative
+925,SSBS/S/2022/925,S/925,6/8/2022,"Vishrantwadi, shantinagar",Genepath,32.2,33.75,34.41,Positive
+926,SSBS/S/2022/926,S/926,6/9/2022,Dapodi / Old sangvi Bridge,Genepath,33.35,0,37.25,Negative
+927,SSBS/S/2022/927,S/927,6/9/2022,"Pimple gurav, 60 feet road",Genepath,36.63,37.62,37.26,Negative
+928,SSBS/S/2022/928,S/928,6/9/2022,kasarwadi pimple gurav road,Genepath,36.99,36.41,36.89,Negative
+929,SSBS/S/2022/929,S/929,6/9/2022,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+930,SSBS/S/2022/930,S/930,6/9/2022,"Chinchwad, Aditya birla hospital",Genepath,0,39.04,0,Negative
+931,SSBS/S/2022/931,S/931,6/10/2022,"Harris Bridge, Dapodi",Genepath,0,38.84,0,Negative
+932,SSBS/S/2022/932,S/932,6/10/2022,"Phugewadi/Dapodi, sai service",Genepath,0,36.79,0,Negative
+933,SSBS/S/2022/933,S/933,6/10/2022,"Wolf Colony, Pimpri",Genepath,33.32,34.79,37.79,Positive
+934,SSBS/S/2022/934,S/934,6/10/2022,Kalewadi Adarsh Nagar,Genepath,0,35.83,36.14,Negative
+935,SSBS/S/2022/935,S/935,6/10/2022,Rahatni new DP road,Genepath,37.46,37.73,0,Positive
+936,SSBS/S/2022/936,S/936,13/06/2022,Shivajinagar Vaidhawadi,Genepath,30.7,35.2,35.4,Positive
+937,SSBS/S/2022/937,S/937,13/06/2022,Shivajinagar Chaturshringi,Genepath,29.7,35.6,35.2,Positive
+938,SSBS/S/2022/938,S/938,13/06/2022,Sanjeevan hospital Kothrud,Genepath,32.3,37.5,34.9,Positive
+939,SSBS/S/2022/939,S/939,13/06/2022,Karve road Kothrud,Genepath,38.1,0,0,Negative
+940,SSBS/S/2022/940,S/940,13/06/2022,Warje Mumbai/Bangalore Highway,Genepath,35.3,34.8,34.2,Positive
+941,SSBS/S/2022/941,S/941,13/06/2022,Kothrud Bus depot,Genepath,29.8,34.1,33.3,Positive
+942,SSBS/S/2022/942,S/942,14/06/2022,"Baner, Mahalunge Bridge",Genepath,39.4,36.8,36.4,Negative
+943,SSBS/S/2022/943,S/943,14/06/2022,Baner/Balewadi,Genepath,30.9,34.3,33.7,Positive
+944,SSBS/S/2022/944,S/944,14/06/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,38.6,36.7,0,Negative
+945,SSBS/S/2022/945,S/945,14/06/2022,Someshwarwadi,Genepath,38.9,36.9,35.5,Negative
+946,SSBS/S/2022/946,S/946,14/06/2022,Jai bhavani nagar pashan,Genepath,35.6,35.8,35.1,Positive
+947,SSBS/S/2022/947,S/947,14/06/2022,"DP road, Botanical Garden, Aundh",Genepath,33.5,0,0,Negative
+948,SSBS/S/2022/948,S/948,15/06/2022,Dattawadi under rajaram bridge,Genepath,30.4,35.2,34.4,Positive
+949,SSBS/S/2022/949,S/949,15/06/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,29.7,35.7,34.3,Positive
+950,SSBS/S/2022/950,S/950,15/06/2022,Shivajinagar Juna bazaar,Genepath,29.8,35.2,33.9,Positive
+951,SSBS/S/2022/951,S/951,15/06/2022,RTO office Yerwada,Genepath,36.6,35.2,35.6,Positive
+952,SSBS/S/2022/952,S/952,15/06/2022,"Vishrantwadi, shantinagar",Genepath,28.7,33.4,32.6,Positive
+953,SSBS/S/2022/953,S/953,16/06/2022,Dapodi / Old sangvi Bridge,Genepath,30,35.3,35.5,Positive
+954,SSBS/S/2022/954,S/954,16/06/2022,"Pimple gurav, 60 feet road",Genepath,30.9,35.9,36.1,Positive
+955,SSBS/S/2022/955,S/955,16/06/2022,kasarwadi pimple gurav road,Genepath,37.2,33.9,33.4,Positive
+956,SSBS/S/2022/956,S/956,16/06/2022,"Shastrinagar, pimpri",Genepath,30.5,35.9,35.2,Positive
+957,SSBS/S/2022/957,S/957,16/06/2022,"Chinchwad, Aditya birla hospital",Genepath,23.2,38.4,0,Negative
+958,SSBS/S/2022/958,S/958,17/06/2022,"Harris Bridge, Dapodi",Genepath,30.2,35.8,35.6,Positive
+959,SSBS/S/2022/959,S/959,17/06/2022,"Phugewadi/Dapodi, sai service",Genepath,25.5,34.8,33.4,Positive
+960,SSBS/S/2022/960,S/960,17/06/2022,"Wolf Colony, Pimpri",Genepath,28.7,35.6,34.7,Positive
+961,SSBS/S/2022/961,S/961,17/06/2022,Kalewadi Adarsh Nagar,Genepath,36.8,0,37.5,Negative
+962,SSBS/S/2022/962,S/962,17/06/2022,Rahatni new DP road,Genepath,28.6,34,32.4,Positive
+963,SSBS/S/2022/963,S/963,20/06/2022,Shivajinagar Vaidhawadi,Genepath,34,40,0,Negative
+964,SSBS/S/2022/964,S/964,20/06/2022,Shivajinagar Chaturshringi,Genepath,30,35,34,Positive
+965,SSBS/S/2022/965,S/965,20/06/2022,Sanjeevan hospital Kothrud,Genepath,37,0,38,Negative
+966,SSBS/S/2022/966,S/966,20/06/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+967,SSBS/S/2022/967,S/967,20/06/2022,Warje Mumbai/Bangalore Highway,Genepath,31,34,33,Positive
+968,SSBS/S/2022/968,S/968,20/06/2022,Kothrud Bus depot,Genepath,25,30,29,Positive
+969,SSBS/S/2022/969,S/969,21/06/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+970,SSBS/S/2022/970,S/970,21/06/2022,Someshwarwadi,Genepath,35,38,36,Negative
+971,SSBS/S/2022/971,S/971,21/06/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,35,38,35,Positive
+972,SSBS/S/2022/972,S/972,21/06/2022,"DP road, Botanical Garden, Aundh",Genepath,30,36,34,Positive
+973,SSBS/S/2022/973,S/973,21/06/2022,Baner/Balewadi,Genepath,36,39,36,Negative
+974,SSBS/S/2022/974,S/974,21/06/2022,"Baner, Mahalunge Bridge",Genepath,36,39,37,Negative
+975,SSBS/S/2022/975,S/975,22/06/2023,Dattawadi under rajaram bridge,Genepath,27,31,30,Positive
+976,SSBS/S/2022/976,S/976,22/06/2024,"Vitthalwadi hingne, off sinhagad road",Genepath,28,32,31,Positive
+977,SSBS/S/2022/977,S/977,22/06/2025,Shivajinagar Juna bazaar,Genepath,30,33,33,Positive
+978,SSBS/S/2022/978,S/978,23/06/2026,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+979,SSBS/S/2022/979,S/979,23/06/2027,"Shastrinagar, pimpri",Genepath,32,35,33,Positive
+980,SSBS/S/2022/980,S/980,23/06/2028,kasarwadi pimple gurav road,Genepath,35,37,35,Negative
+981,SSBS/S/2022/981,S/981,23/06/2029,"Pimple gurav, 60 feet road",Genepath,37,38,36,Negative
+982,SSBS/S/2022/982,S/982,23/06/2030,Dapodi / Old sangvi Bridge,Genepath,31,33,34,Positive
+983,SSBS/S/2022/983,S/983,24/06/2031,Rahatni new DP road,Genepath,30,33,32,Positive
+984,SSBS/S/2022/984,S/984,24/06/2032,Kalewadi Adarsh Nagar,Genepath,0,37,0,Negative
+985,SSBS/S/2022/985,S/985,24/06/2033,"Phugewadi/Dapodi, sai service",Genepath,32,34,33,Positive
+986,SSBS/S/2022/986,S/986,24/06/2034,"Harris Bridge, Dapodi",Genepath,33,39,34,Positive
+987,SSBS/S/2022/987,S/987,24/06/2035,"Wolf Colony, Pimpri",Genepath,33,37,34,Positive
+988,SSBS/S/2022/988,S/988,27/06/2022,Shivajinagar Vaidhawadi,Genepath,28.7,33,32.4,Positive
+989,SSBS/S/2022/989,S/989,27/06/2022,Shivajinagar Chaturshringi,Genepath,30.2,33.2,32.1,Positive
+990,SSBS/S/2022/990,S/990,27/06/2022,Sanjeevan hospital Kothrud,Genepath,32.8,36.9,34.9,Positive
+991,SSBS/S/2022/991,S/991,27/06/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+992,SSBS/S/2022/992,S/992,27/06/2022,Warje Mumbai/Bangalore Highway,Genepath,28.3,32.4,31.2,Positive
+993,SSBS/S/2022/993,S/993,27/06/2022,Kothrud Bus depot,Genepath,27.7,31.4,30.7,Positive
+994,SSBS/S/2022/994,S/994,28/06/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+995,SSBS/S/2022/995,S/995,28/06/2022,Someshwarwadi,Genepath,30.5,34.1,33.2,Positive
+996,SSBS/S/2022/996,S/996,28/06/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,28.8,32.7,31.8,Positive
+997,SSBS/S/2022/997,S/997,28/06/2022,"DP road, Botanical Garden, Aundh",Genepath,31.8,34.5,33.2,Positive
+998,SSBS/S/2022/998,S/998,28/06/2022,Baner/Balewadi,Genepath,27.9,32.2,31.4,Positive
+999,SSBS/S/2022/999,S/999,28/06/2022,"Baner, Mahalunge Bridge",Genepath,31.9,35.5,34.3,Positive
+1000,SSBS/S/2022/1000,S/1000,29/06/2022,"Vishrantwadi, shantinagar",Genepath,28.8,32.5,32,Positive
+1001,SSBS/S/2022/1001,S/1001,29/06/2022,RTO office Yerwada,Genepath,38.6,0,38.9,Negative
+1002,SSBS/S/2022/1002,S/1002,29/06/2022,Shivajinagar Juna bazaar,Genepath,29.2,33,31.9,Positive
+1003,SSBS/S/2022/1003,S/1003,29/06/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,33.8,38.7,35,Positive
+1004,SSBS/S/2022/1004,S/1004,29/06/2022,Dattawadi under rajaram bridge,Genepath,36.5,39.9,37.2,Negative
+1005,SSBS/S/2022/1005,S/1005,30/06/2022,Dapodi / Old sangvi Bridge,Genepath,34.4,37.1,36.6,Negative
+1006,SSBS/S/2022/1006,S/1006,30/06/2022,"Pimple gurav, 60 feet road",Genepath,40,0,37.8,Negative
+1007,SSBS/S/2022/1007,S/1007,30/06/2022,kasarwadi pimple gurav road,Genepath,32.1,32.8,33.6,Positive
+1008,SSBS/S/2022/1008,S/1008,30/06/2022,"Shastrinagar, pimpri",Genepath,35.9,39,36.5,Negative
+1009,SSBS/S/2022/1009,S/1009,30/06/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+1010,SSBS/M/2022/1010,S/1010,7/1/2022,Kalewadi Adarsh Nagar,Genepath,0,0,0,Negative
+1011,SSBS/M/2022/1011,S/1011,7/1/2022,Rahatni new DP road,Genepath,0,0,39.2,Negative
+1012,SSBS/M/2022/1012,S/1012,7/1/2022,"Wolf Colony, Pimpri",Genepath,29.2,33.4,32.4,Positive
+1013,SSBS/M/2022/1013,S/1013,7/1/2022,"Phugewadi/Dapodi, sai service",Genepath,33.1,0,0,Negative
+1014,SSBS/M/2022/1014,S/1014,7/1/2022,"Harris Bridge, Dapodi",Genepath,34.2,0,34.9,Positive
+1015,SSBS/M/2022/1015,S/1015,7/4/2022,Shivajinagar Vaidhawadi,Genepath,28.2,33.4,32.3,Positive
+1016,SSBS/M/2022/1016,S/1016,7/4/2022,Shivajinagar Chaturshringi,Genepath,26.5,31,30.1,Positive
+1017,SSBS/M/2022/1017,S/1017,7/4/2022,Sanjeevan hospital Kothrud,Genepath,29,33,32.3,Positive
+1018,SSBS/M/2022/1018,S/1018,7/4/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+1019,SSBS/M/2022/1019,S/1019,7/4/2022,Warje Mumbai/Bangalore Highway,Genepath,27.8,32,31.1,Positive
+1020,SSBS/M/2022/1020,S/1020,7/4/2022,Kothrud Bus depot,Genepath,27.6,32.5,30.9,Positive
+1021,SSBS/M/2022/1021,S/1021,7/5/2022,Jai bhavani nagar pashan,Genepath,0,39.8,0,Negative
+1022,SSBS/M/2022/1022,S/1022,7/5/2022,Someshwarwadi,Genepath,29.9,34.6,34,Positive
+1023,SSBS/M/2022/1023,S/1023,7/5/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,31.6,35.2,34.5,Positive
+1024,SSBS/M/2022/1024,S/1024,7/5/2022,"DP road, Botanical Garden, Aundh",Genepath,28.9,33,32.1,Positive
+1025,SSBS/M/2022/1025,S/1025,7/5/2022,Baner/Balewadi,Genepath,29.2,34,33.2,Positive
+1026,SSBS/M/2022/1026,S/1026,7/5/2022,"Baner, Mahalunge Bridge",Genepath,34.1,37.3,36.6,Negative
+1027,SSBS/M/2022/1027,S/1027,7/6/2022,Dattawadi under rajaram bridge,Genepath,28.6,32.4,31.8,Positive
+1028,SSBS/M/2022/1028,S/1028,7/6/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,28,32.2,31.3,Positive
+1029,SSBS/M/2022/1029,S/1029,7/6/2022,Shivajinagar Juna bazaar,Genepath,27.6,31.2,30.3,Positive
+1030,SSBS/M/2022/1030,S/1030,7/6/2022,RTO office Yerwada,Genepath,28,32.3,31.3,Positive
+1031,SSBS/M/2022/1031,S/1031,7/6/2022,"Vishrantwadi, shantinagar",Genepath,30.4,34,33.3,Positive
+1032,SSBS/M/2022/1032,S/1032,7/7/2022,"Chinchwad, Aditya birla hospital",Genepath,32.8,38.3,37.9,Negative
+1033,SSBS/M/2022/1033,S/1033,7/7/2022,"Shastrinagar, pimpri",Genepath,0,34.2,33.5,Positive
+1034,SSBS/M/2022/1034,S/1034,7/7/2022,kasarwadi pimple gurav road,Genepath,34.3,34.4,34.1,Positive
+1035,SSBS/M/2022/1035,S/1035,7/7/2022,"Pimple gurav, 60 feet road",Genepath,29,33.9,32,Positive
+1036,SSBS/M/2022/1036,S/1036,7/7/2022,Dapodi / Old sangvi Bridge,Genepath,34.7,36.1,36.1,Negative
+1037,SSBS/M/2022/1037,S/1037,7/8/2022,Rahatni new DP road,Genepath,29,33.2,32.1,Positive
+1038,SSBS/M/2022/1038,S/1038,7/8/2022,Kalewadi Adarsh Nagar,Genepath,29.1,32.4,32.9,Positive
+1039,SSBS/M/2022/1039,S/1039,7/8/2022,"Wolf Colony, Pimpri",Genepath,29.8,33.7,32.9,Positive
+1040,SSBS/M/2022/1040,S/1040,7/8/2022,"Phugewadi/Dapodi, sai service",Genepath,30.9,34.2,33.2,Positive
+1041,SSBS/M/2022/1041,S/1041,7/8/2022,"Harris Bridge, Dapodi",Genepath,29.3,32.9,32,Positive
+1042,SSBS/M/2022/1042,S/1042,7/11/2022,Shivajinagar Vaidhawadi,Genepath,29.6,32.9,31.9,Positive
+1043,SSBS/M/2022/1043,S/1043,7/11/2022,Shivajinagar Chaturshringi,Genepath,29.3,32.3,31.2,Positive
+1044,SSBS/M/2022/1044,S/1044,7/11/2022,Sanjeevan hospital Kothrud,Genepath,31.8,35.1,34.1,Positive
+1045,SSBS/M/2022/1045,S/1045,7/11/2022,Karve road Kothrud,Genepath,40,0,40.2,Negative
+1046,SSBS/M/2022/1046,S/1046,7/11/2022,Warje Mumbai/Bangalore Highway,Genepath,31.8,35.2,33.4,Positive
+1047,SSBS/M/2022/1047,S/1047,7/11/2022,Kothrud Bus depot,Genepath,30,34.3,32.5,Positive
+1048,SSBS/M/2022/1048,S/1048,7/12/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+1049,SSBS/M/2022/1049,S/1049,7/12/2022,Someshwarwadi,Genepath,31.1,34.2,33,Positive
+1050,SSBS/M/2022/1050,S/1050,7/12/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,34.4,37.4,36.2,Negative
+1051,SSBS/M/2022/1051,S/1051,7/12/2022,"DP road, Botanical Garden, Aundh",Genepath,35.4,39.6,38.1,Negative
+1052,SSBS/M/2022/1052,S/1052,7/12/2022,Baner/Balewadi,Genepath,0,0,0,Negative
+1053,SSBS/M/2022/1053,S/1053,7/12/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+1054,SSBS/M/2022/1054,S/1054,13/07/2022,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+1055,SSBS/M/2022/1055,S/1055,13/07/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,37.7,38.2,38.1,Negative
+1056,SSBS/M/2022/1056,S/1056,13/07/2022,Shivajinagar Juna bazaar,Genepath,0,0,0,Negative
+1057,SSBS/M/2022/1057,S/1057,13/07/2022,"Vishrantwadi, shantinagar",Genepath,0,34.6,0,Negative
+1058,SSBS/M/2022/1058,S/1058,14/07/2022,"Chinchwad, Aditya birla hospital",Genepath,35.5,39.4,37.4,Negative
+1059,SSBS/M/2022/1059,S/1059,14/07/2022,"Shastrinagar, pimpri",Genepath,38.7,0,39.4,Negative
+1060,SSBS/M/2022/1060,S/1060,14/07/2022,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+1061,SSBS/M/2022/1061,S/1061,14/07/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+1062,SSBS/M/2022/1062,S/1062,15/07/2022,Rahatni new DP road,Genepath,0,0,0,Negative
+1063,SSBS/M/2022/1063,S/1063,15/07/2022,"Phugewadi/Dapodi, sai service",Genepath,33.7,37,36.2,Negative
+1064,SSBS/M/2022/1064,S/1064,15/07/2022,"Harris Bridge, Dapodi",Genepath,32,35.3,34.3,Positive
+1065,SSBS/M/2022/1065,S/1065,18/07/2022,Shivajinagar Vaidhawadi,Genepath,28.9,32.6,32.1,Positive
+1066,SSBS/M/2022/1066,S/1066,18/07/2022,Shivajinagar Chaturshringi,Genepath,0,34.3,33,Positive
+1067,SSBS/M/2022/1067,S/1067,18/07/2022,Karve road Kothrud,Genepath,37.9,0,0,Negative
+1068,SSBS/M/2022/1068,S/1068,18/07/2022,Warje Mumbai/Bangalore Highway,Genepath,30.4,33.6,0,Positive
+1069,SSBS/M/2022/1069,S/1069,18/07/2022,Kothrud Bus depot,Genepath,25.3,29.7,28.9,Positive
+1070,SSBS/M/2022/1070,S/1070,19/07/2022,"Baner, Mahalunge Bridge",Genepath,0,38.5,0,Negative
+1071,SSBS/M/2022/1071,S/1071,19/07/2022,Baner/Balewadi,Genepath,30,34.8,34.1,Positive
+1072,SSBS/M/2022/1072,S/1072,19/07/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,33.3,37.8,Negative
+1073,SSBS/M/2022/1073,S/1073,19/07/2022,Someshwarwadi,Genepath,0,0,38.8,Negative
+1074,SSBS/M/2022/1074,S/1074,19/07/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+1075,SSBS/M/2022/1075,S/1075,19/07/2022,"DP road, Botanical Garden, Aundh",Genepath,36.6,0,0,Negative
+1076,SSBS/M/2022/1076,S/1076,20/07/2022,RTO office Yerwada,Genepath,30.1,33.5,32.1,Positive
+1077,SSBS/M/2022/1077,S/1077,20/07/2022,"Vishrantwadi, shantinagar",Genepath,29.9,33.5,33.2,Positive
+1078,SSBS/M/2022/1078,S/1078,20/07/2022,Shivajinagar Juna bazaar,Genepath,28.6,32.6,31.7,Positive
+1079,SSBS/M/2022/1079,S/1079,20/07/2022,Dattawadi under rajaram bridge,Genepath,28.5,32.9,32,Positive
+1080,SSBS/M/2022/1080,S/1080,20/07/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,0,Negative
+1081,SSBS/M/2022/1081,S/1081,21/07/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+1082,SSBS/M/2022/1082,S/1082,21/07/2022,"Shastrinagar, pimpri",Genepath,32.5,36.5,35.2,Positive
+1083,SSBS/M/2022/1083,S/1083,21/07/2022,kasarwadi pimple gurav road,Genepath,30.7,34.4,33.1,Positive
+1084,SSBS/M/2022/1084,S/1084,21/07/2022,"Pimple gurav, 60 feet road",Genepath,29.8,0,32.7,Positive
+1085,SSBS/M/2022/1085,S/1085,21/07/2022,Dapodi / Old sangvi Bridge,Genepath,36.9,0,0,Negative
+1086,SSBS/M/2022/1086,S/1086,22/07/2022,Rahatni new DP road,Genepath,30.1,34.4,32.8,Positive
+1087,SSBS/M/2022/1087,S/1087,22/07/2022,"Wolf Colony, Pimpri",Genepath,31.5,35.1,35.2,Positive
+1088,SSBS/M/2022/1088,S/1088,22/07/2022,"Phugewadi/Dapodi, sai service",Genepath,0,32.6,0,Negative
+1089,SSBS/M/2022/1089,S/1089,22/07/2022,"Harris Bridge, Dapodi",Genepath,33.3,38.1,36.5,Negative
+1090,SSBS/M/2022/1090,S/1090,25/07/2022,Shivajinagar Vaidhawadi,Genepath,31.3,36.3,33.4,Positive
+1091,SSBS/M/2022/1091,S/1091,25/07/2022,Shivajinagar Chaturshringi,Genepath,31.1,35.7,33.6,Positive
+1092,SSBS/M/2022/1092,S/1092,25/07/2022,Sanjeevan hospital Kothrud,Genepath,36.7,0,37.1,Negative
+1093,SSBS/M/2022/1093,S/1093,25/07/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+1094,SSBS/M/2022/1094,S/1094,25/07/2022,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+1095,SSBS/M/2022/1095,S/1095,25/07/2022,Kothrud Bus depot,Genepath,30.4,37.2,34.4,Positive
+1096,SSBS/M/2022/1096,S/1096,26/07/2022,"Baner, Mahalunge Bridge",Genepath,35.5,0,0,Negative
+1097,SSBS/M/2022/1097,S/1097,26/07/2022,Baner/Balewadi,Genepath,28.9,33.3,32.1,Positive
+1098,SSBS/M/2022/1098,S/1098,26/07/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,37,0,0,Negative
+1099,SSBS/M/2022/1099,S/1099,26/07/2022,Someshwarwadi,Genepath,0,0,0,Negative
+1100,SSBS/M/2022/1100,S/1100,26/07/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+1101,SSBS/M/2022/1101,S/1101,26/07/2022,"DP road, Botanical Garden, Aundh",Genepath,33.2,38.8,34.2,Positive
+1102,SSBS/M/2022/1102,S/1102,27/07/2022,Dattawadi under rajaram bridge,Genepath,34.1,38.5,36.9,Negative
+1103,SSBS/M/2022/1103,S/1103,27/07/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,34.4,Negative
+1104,SSBS/M/2022/1104,S/1104,27/07/2022,Shivajinagar Juna bazaar,Genepath,28.6,33.5,31.7,Positive
+1105,SSBS/M/2022/1105,S/1105,27/07/2022,RTO office Yerwada,Genepath,30.2,34.1,32.4,Positive
+1106,SSBS/M/2022/1106,S/1106,27/07/2022,"Vishrantwadi, shantinagar",Genepath,31.1,35,33.5,Positive
+1107,SSBS/M/2022/1107,S/1107,28/07/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+1108,SSBS/M/2022/1108,S/1108,28/07/2022,"Shastrinagar, pimpri",Genepath,0,34.8,33.1,Positive
+1109,SSBS/M/2022/1109,S/1109,28/07/2022,kasarwadi pimple gurav road,Genepath,29.5,0,32.2,Positive
+1110,SSBS/M/2022/1110,S/1110,28/07/2022,"Pimple gurav, 60 feet road",Genepath,0,0,0,Negative
+1111,SSBS/M/2022/1111,S/1111,28/07/2022,Dapodi / Old sangvi Bridge,Genepath,31.7,0,34.6,Positive
+1112,SSBS/M/2022/1112,S/1112,29/07/2022,"Harris Bridge, Dapodi",Genepath,30.8,34.5,33.5,Positive
+1113,SSBS/M/2022/1113,S/1113,29/07/2022,"Phugewadi/Dapodi, sai service",Genepath,0,34.7,0,Negative
+1114,SSBS/M/2022/1114,S/1114,29/07/2022,"Wolf Colony, Pimpri",Genepath,36.5,0,37,Negative
+1115,SSBS/M/2022/1115,S/1115,29/07/2022,Rahatni new DP road,Genepath,34,40.1,36.2,Negative
+1116,SSBS/M/2022/1116,S/1116,8/1/2022,Shivajinagar Vaidhawadi,Genepath,28.53,34.93,32.64,Positive
+1117,SSBS/M/2022/1117,S/1117,8/1/2022,Shivajinagar Chaturshringi,Genepath,31.27,36.74,34.63,Positive
+1118,SSBS/M/2022/1118,S/1118,8/1/2022,Sanjeevan hospital Kothrud,Genepath,32.26,35.43,35.7,Positive
+1119,SSBS/M/2022/1119,S/1119,8/1/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+1120,SSBS/M/2022/1120,S/1120,8/1/2022,Warje Mumbai/Bangalore Highway,Genepath,29.05,33.95,33.09,Positive
+1121,SSBS/M/2022/1121,S/1121,8/1/2022,Kothrud Bus depot,Genepath,25.27,30.09,29.46,Positive
+1122,SSBS/M/2022/1122,S/1122,8/2/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+1123,SSBS/M/2022/1123,S/1123,8/2/2022,Baner/Balewadi,Genepath,28.16,33.59,32.37,Positive
+1124,SSBS/M/2022/1124,S/1124,8/2/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+1125,SSBS/M/2022/1125,S/1125,8/2/2022,Someshwarwadi,Genepath,0,0,0,Negative
+1126,SSBS/M/2022/1126,S/1126,8/2/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+1127,SSBS/M/2022/1127,S/1127,8/2/2022,"DP road, Botanical Garden, Aundh",Genepath,28.57,35.91,32.16,Positive
+1128,SSBS/M/2022/1128,S/1128,8/3/2022,Dattawadi under rajaram bridge,Genepath,30.75,35.52,34.12,Positive
+1129,SSBS/M/2022/1129,S/1129,8/3/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,29.96,33.32,34.25,Positive
+1130,SSBS/M/2022/1130,S/1130,8/3/2022,Shivajinagar Juna bazaar,Genepath,29.8,34.13,33.43,Positive
+1131,SSBS/M/2022/1131,S/1131,8/3/2022,RTO office Yerwada,Genepath,30.7,34.97,33.8,Positive
+1132,SSBS/M/2022/1132,S/1132,8/3/2022,"Vishrantwadi, shantinagar",Genepath,30.09,35.42,33.64,Positive
+1133,SSBS/M/2022/1133,S/1133,8/4/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+1134,SSBS/M/2022/1134,S/1134,8/4/2022,"Shastrinagar, pimpri",Genepath,31.57,38.73,35.33,Positive
+1135,SSBS/M/2022/1135,S/1135,8/4/2022,kasarwadi pimple gurav road,Genepath,36.48,39.2,36.53,Negative
+1136,SSBS/M/2022/1136,S/1136,8/4/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,36.84,Negative
+1137,SSBS/M/2022/1137,S/1137,8/4/2022,"Pimple gurav, 60 feet road",Genepath,28.36,33.93,32.83,Positive
+1138,SSBS/M/2022/1138,S/1138,8/5/2022,Rahatni new DP road,Genepath,26.31,0,0,Negative
+1139,SSBS/M/2022/1139,S/1139,8/5/2022,"Wolf Colony, Pimpri",Genepath,29.2,35.18,32.98,Positive
+1140,SSBS/M/2022/1140,S/1140,8/5/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+1141,SSBS/M/2022/1141,S/1141,8/5/2022,"Harris Bridge, Dapodi",Genepath,33.1922,39.2232,36.7353,Negative
+1142,SSBS/M/2022/1142,S/1142,8/8/2022,Shivajinagar Vaidhawadi,Genepath,31.27,37.03,36.59,Negative
+1143,SSBS/M/2022/1143,S/1143,8/8/2022,Shivajinagar Chaturshringi,Genepath,30.42,37.39,34.57,Positive
+1144,SSBS/M/2022/1144,S/1144,8/8/2022,Sanjeevan hospital Kothrud,Genepath,31.64,38.5,38.95,Negative
+1145,SSBS/M/2022/1145,S/1145,8/8/2022,Karve road Kothrud,Genepath,32.99,37.37,36.25,Positive
+1146,SSBS/M/2022/1146,S/1146,8/8/2022,Warje Mumbai/Bangalore Highway,Genepath,30.42,35.86,34.04,Positive
+1147,SSBS/M/2022/1147,S/1147,8/8/2022,Kothrud Bus depot,Genepath,31.21,0,36.27,Negative
+1148,SSBS/M/2022/1148,S/1148,8/9/2022,"Baner, Mahalunge Bridge",Genepath,24.9,27.87,0,Positive
+1149,SSBS/M/2022/1149,S/1149,8/9/2022,Baner/Balewadi,Genepath,28.76,34.31,32.46,Positive
+1150,SSBS/M/2022/1150,S/1150,8/9/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,33.1,36.15,34.64,Positive
+1151,SSBS/M/2022/1151,S/1151,8/9/2022,Someshwarwadi,Genepath,37.7,0,38.99,Negative
+1152,SSBS/M/2022/1152,S/1152,8/9/2022,Jai bhavani nagar pashan,Genepath,40.86,0,0,Negative
+1153,SSBS/M/2022/1153,S/1153,8/9/2022,"DP road, Botanical Garden, Aundh",Genepath,28.87,36.59,32.34,Positive
+1154,SSBS/M/2022/1154,S/1154,8/10/2022,"Vishrantwadi, shantinagar",Genepath,30.08,36.21,33.57,Positive
+1155,SSBS/M/2022/1155,S/1155,8/10/2022,RTO office Yerwada,Genepath,30.96,36.77,33.79,Positive
+1156,SSBS/M/2022/1156,S/1156,8/10/2022,Shivajinagar Juna bazaar,Genepath,28.53,33.59,32.4,Positive
+1157,SSBS/M/2022/1157,S/1157,8/10/2022,Dattawadi under rajaram bridge,Genepath,32.3,32.89,33.4,Positive
+1158,SSBS/M/2022/1158,S/1158,8/10/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,30.11,35.49,32.42,Positive
+1159,SSBS/M/2022/1159,S/1159,8/12/2022,"Chinchwad, Aditya birla hospital",Genepath,40.72,0,35.87,Negative
+1160,SSBS/M/2022/1160,S/1160,8/12/2022,"Shastrinagar, pimpri",Genepath,36.63,38.79,33.44,Negative
+1161,SSBS/M/2022/1161,S/1161,8/12/2022,kasarwadi pimple gurav road,Genepath,38.37,37.13,34.25,Negative
+1162,SSBS/M/2022/1162,S/1162,8/12/2022,Dapodi / Old sangvi Bridge,Genepath,29.81,0,0,Negative
+1163,SSBS/M/2022/1163,S/1163,16/08/2022,"Baner, Mahalunge Bridge",Genepath,35.62,38.26,38.9,Negative
+1164,SSBS/M/2022/1164,S/1164,16/08/2022,Baner/Balewadi,Genepath,31.56,34.32,31.43,Positive
+1165,SSBS/M/2022/1165,S/1165,16/08/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,34.61,25.42,Positive
+1166,SSBS/M/2022/1166,S/1166,16/08/2022,Someshwarwadi,Genepath,36.69,0,32.98,Negative
+1167,SSBS/M/2022/1167,S/1167,16/08/2022,Jai bhavani nagar pashan,Genepath,0,39.69,33.05,Negative
+1168,SSBS/M/2022/1168,S/1168,16/08/2022,"DP road, Botanical Garden, Aundh",Genepath,38.26,32.43,32.89,Positive
+1169,SSBS/M/2022/1169,S/1169,17/08/2022,Dattawadi under rajaram bridge,Genepath,29.39,31.87,30.53,Positive
+1170,SSBS/M/2022/1170,S/1170,17/08/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,29.34,34.62,30.89,Positive
+1171,SSBS/M/2022/1171,S/1171,17/08/2022,Shivajinagar Juna bazaar,Genepath,32.77,0,32.55,Positive
+1172,SSBS/M/2022/1172,S/1172,17/08/2022,"Vishrantwadi, shantinagar",Genepath,38.36,36.17,33.74,Negative
+1173,SSBS/M/2022/1173,S/1173,18/08/2022,"Chinchwad, Aditya birla hospital",Genepath,0,37.79,39.61,Negative
+1174,SSBS/M/2022/1174,S/1174,18/08/2022,"Shastrinagar, pimpri",Genepath,32.25,38.86,32.81,Positive
+1175,SSBS/M/2022/1175,S/1175,18/08/2022,kasarwadi pimple gurav road,Genepath,31.06,36.38,33.22,Positive
+1176,SSBS/M/2022/1176,S/1176,18/08/2022,Dapodi / Old sangvi Bridge,Genepath,19.31,37.96,37.58,Negative
+1177,SSBS/M/2022/1177,S/1177,19/08/2022,Rahatni new DP road,Genepath,33.88,0,37.11,Negative
+1178,SSBS/M/2022/1178,S/1178,19/08/2022,"Phugewadi/Dapodi, sai service",Genepath,33.87,0,0,Negative
+1179,SSBS/M/2022/1179,S/1179,19/08/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+1180,SSBS/M/2022/1180,S/1180,22/08/2022,Shivajinagar Vaidhawadi,Genepath,29.45,37.28,32.87,Positive
+1181,SSBS/M/2022/1181,S/1181,22/08/2022,Shivajinagar Chaturshringi,Genepath,30.07,39.21,32.75,Positive
+1182,SSBS/M/2022/1182,S/1182,22/08/2022,Sanjeevan hospital Kothrud,Genepath,26.72,35.61,30.46,Positive
+1183,SSBS/M/2022/1183,S/1183,22/08/2022,Karve road Kothrud,Genepath,0,0,37.19,Negative
+1184,SSBS/M/2022/1184,S/1184,22/08/2022,Warje Mumbai/Bangalore Highway,Genepath,28.19,34.65,31.85,Positive
+1185,SSBS/M/2022/1185,S/1185,23/08/2022,"Baner, Mahalunge Bridge",Genepath,0,0,40.87,Negative
+1186,SSBS/M/2022/1186,S/1186,23/08/2022,Baner/Balewadi,Genepath,34.77,0,36.53,Negative
+1187,SSBS/M/2022/1187,S/1187,23/08/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+1188,SSBS/M/2022/1188,S/1188,23/08/2022,Someshwarwadi,Genepath,0,0,0,Negative
+1189,SSBS/M/2022/1189,S/1189,23/08/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+1190,SSBS/M/2022/1190,S/1190,23/08/2022,"DP road, Botanical Garden, Aundh",Genepath,28.34,32.77,33.98,Positive
+1191,SSBS/M/2022/1191,S/1191,24/08/2022,Dapodi / Old sangvi Bridge,Genepath,29.85,38.12,0,Negative
+1192,SSBS/M/2022/1192,S/1192,24/08/2022,kasarwadi pimple gurav road,Genepath,0,0,34.91,Negative
+1193,SSBS/M/2022/1193,S/1193,24/08/2022,"Shastrinagar, pimpri",Genepath,32.88,0,35.73,Negative
+1194,SSBS/M/2022/1194,S/1194,25/08/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,38.73,Negative
+1195,SSBS/M/2022/1195,S/1195,25/08/2022,Dattawadi under rajaram bridge,Genepath,35.56,0,37.84,Negative
+1196,SSBS/M/2022/1196,S/1196,25/08/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,39.77,0,35.55,Negative
+1197,SSBS/M/2022/1197,S/1197,25/08/2022,Shivajinagar Juna bazaar,Genepath,33.13,38.45,34.36,Positive
+1198,SSBS/M/2022/1198,S/1198,26/08/2022,"Vishrantwadi, shantinagar",Genepath,29.57,35.24,32.45,Positive
+1199,SSBS/M/2022/1199,S/1199,26/08/2022,Rahatni new DP road,Genepath,0,35.98,32.83,Negative
+1200,SSBS/M/2022/1200,S/1200,26/08/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+1201,SSBS/M/2022/1201,S/1201,26/08/2022,"Harris Bridge, Dapodi",Genepath,33.72,0,35.25,Negative
+1202,SSBS/M/2022/1202,S/1202,29/08/2022,Shivajinagar Vaidhawadi,Genepath,29.7,36.55,32.23,Positive
+1203,SSBS/M/2022/1203,S/1203,29/08/2022,Shivajinagar Chaturshringi,Genepath,28.66,34.63,31.83,Positive
+1204,SSBS/M/2022/1204,S/1204,29/08/2022,Sanjeevan hospital Kothrud,Genepath,33.38,39.26,36.34,Negative
+1205,SSBS/M/2022/1205,S/1205,29/08/2022,Karve road Kothrud,Genepath,30.59,35.35,33.39,Positive
+1206,SSBS/M/2022/1206,S/1206,29/08/2022,Warje Mumbai/Bangalore Highway,Genepath,27.39,33.95,31.36,Positive
+1207,SSBS/M/2022/1207,S/1207,29/08/2022,Kothrud Bus depot,Genepath,26.67,34.69,30.34,Positive
+1208,SSBS/M/2022/1208,S/1208,30/08/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Positive
+1209,SSBS/M/2022/1209,S/1209,30/08/2022,Baner/Balewadi,Genepath,29.5,32.68,31.64,Negative
+1210,SSBS/M/2022/1210,S/1210,30/08/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,27.29,0,0,Negative
+1211,SSBS/M/2022/1211,S/1211,30/08/2022,Someshwarwadi,Genepath,33.68,0,0,Negative
+1212,SSBS/M/2022/1212,S/1212,30/08/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+1213,SSBS/M/2022/1213,S/1213,9/1/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+1214,SSBS/M/2022/1214,S/1214,9/1/2022,"Shastrinagar, pimpri",Genepath,29.6,36.02,32.51,Positive
+1215,SSBS/M/2022/1215,S/1215,9/1/2022,kasarwadi pimple gurav road,Genepath,32.68,35.49,34.41,Positive
+1216,SSBS/M/2022/1216,S/1216,9/1/2022,"Pimple gurav, 60 feet road",Genepath,28.84,33.29,31.23,Positive
+1217,SSBS/M/2022/1217,S/1217,9/1/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+1218,SSBS/M/2022/1218,S/1218,9/2/2022,Rahatni new DP road,Genepath,37.36,0,37.04,Negative
+1219,SSBS/M/2022/1219,S/1219,9/2/2022,"Phugewadi/Dapodi, sai service",Genepath,34.46,0,36.61,Negative
+1220,SSBS/M/2022/1220,S/1220,9/2/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+1221,SSBS/M/2022/1221,S/1221,9/5/2022,Shivajinagar Vaidhawadi,Genepath,29.13,37.85,33.3,Positive
+1222,SSBS/M/2022/1222,S/1222,9/5/2022,Shivajinagar Chaturshringi,Genepath,29.25,36.44,33.52,Positive
+1223,SSBS/M/2022/1223,S/1223,9/5/2022,Sanjeevan hospital Kothrud,Genepath,31.15,36.35,33.8,Positive
+1224,SSBS/M/2022/1224,S/1224,9/5/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+1225,SSBS/M/2022/1225,S/1225,9/5/2022,Warje Mumbai/Bangalore Highway,Genepath,30.85,38.21,34.41,Positive
+1226,SSBS/M/2022/1226,S/1226,9/5/2022,Kothrud Bus depot,Genepath,30.51,0,34.33,Positive
+1227,SSBS/M/2022/1227,S/1227,9/6/2022,"Baner, Mahalunge Bridge",Genepath,32.03,0,39.63,Negative
+1228,SSBS/M/2022/1228,S/1228,9/6/2022,Baner/Balewadi,Genepath,38.92,0,0,Negative
+1229,SSBS/M/2022/1229,S/1229,9/6/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,0,0,Negative
+1230,SSBS/M/2022/1230,S/1230,9/6/2022,Someshwarwadi,Genepath,29.27,0,0,Negative
+1231,SSBS/M/2022/1231,S/1231,9/6/2022,"DP road, Botanical Garden, Aundh",Genepath,33.46,0,34.44,Positive
+1232,SSBS/M/2022/1232,S/1232,9/7/2022,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+1233,SSBS/M/2022/1233,S/1233,9/7/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,28.62,38.61,30.83,Positive
+1234,SSBS/M/2022/1234,S/1234,9/7/2022,Shivajinagar Juna bazaar,Genepath,0,0,35.37,Negative
+1235,SSBS/M/2022/1235,S/1235,9/7/2022,"Vishrantwadi, shantinagar",Genepath,26.69,34.38,29.39,Positive
+1236,SSBS/M/2022/1236,S/1236,9/8/2022,"Chinchwad, Aditya birla hospital",Genepath,29.49,0,32.59,Positive
+1237,SSBS/M/2022/1237,S/1237,9/8/2022,"Shastrinagar, pimpri",Genepath,28,35.9,30.73,Positive
+1238,SSBS/M/2022/1238,S/1238,9/8/2022,kasarwadi pimple gurav road,Genepath,29.27,36.88,31.92,Positive
+1239,SSBS/M/2022/1239,S/1239,9/8/2022,Dapodi / Old sangvi Bridge,Genepath,40.71,0,36.27,Negative
+1240,SSBS/M/2022/1240,S/1240,9/12/2022,Shivajinagar Vaidhawadi,Genepath,30.1963,0,33.3413,Positive
+1241,SSBS/M/2022/1241,S/1241,9/12/2022,Shivajinagar Chaturshringi,Genepath,28.0515,38.73478,33.3053,Positive
+1242,SSBS/M/2022/1242,S/1242,9/12/2022,Sanjeevan hospital Kothrud,Genepath,32.772,0,35.8105,Negative
+1243,SSBS/M/2022/1243,S/1243,9/12/2022,Karve road Kothrud,Genepath,32.7171,0,35.3563,Negative
+1244,SSBS/M/2022/1244,S/1244,9/12/2022,Warje Mumbai/Bangalore Highway,Genepath,28.5999,0,34.272,Positive
+1245,SSBS/M/2022/1245,S/1245,9/12/2022,Kothrud Bus depot,Genepath,28.1545,38.9556,31.398,Positive
+1246,SSBS/M/2022/1246,S/1246,13/09/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+1247,SSBS/M/2022/1247,S/1247,13/09/2022,Baner/Balewadi,Genepath,28.4891,37.272,32.0126,Positive
+1248,SSBS/M/2022/1248,S/1248,13/09/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,38.6155,0,0,Negative
+1249,SSBS/M/2022/1249,S/1249,13/09/2022,Someshwarwadi,Genepath,0,0,0,Negative
+1250,SSBS/M/2022/1250,S/1250,13/09/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+1251,SSBS/M/2022/1251,S/1251,13/09/2022,"DP road, Botanical Garden, Aundh",Genepath,30.043,36.6731,33.4034,Positive
+1252,SSBS/M/2022/1252,S/1252,14/09/2022,Dattawadi under rajaram bridge,Genepath,29.4897,0,34.8105,Positive
+1253,SSBS/M/2022/1253,S/1253,14/09/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,38.9008,0,0,Negative
+1254,SSBS/M/2022/1254,S/1254,14/09/2022,Shivajinagar Juna bazaar,Genepath,32.0175,0,35.6211,Positive
+1255,SSBS/M/2022/1255,S/1255,14/09/2022,"Vishrantwadi, shantinagar",Genepath,0,0,0,Negative
+1256,SSBS/M/2022/1256,S/1256,15/09/2022,"Chinchwad, Aditya birla hospital",Genepath,0,0,0,Negative
+1257,SSBS/M/2022/1257,S/1257,15/09/2022,"Shastrinagar, pimpri",Genepath,0,0,0,Negative
+1258,SSBS/M/2022/1258,S/1258,15/09/2022,kasarwadi pimple gurav road,Genepath,30.4529,38.6988,34.3932,Positive
+1259,SSBS/M/2022/1259,S/1259,15/09/2022,Dapodi / Old sangvi Bridge,Genepath,33.7306,0,0,Negative
+1260,SSBS/M/2022/1260,S/1260,16/09/2022,Rahatni new DP road,Genepath,39.108,0,35.5838,Negative
+1261,SSBS/M/2022/1261,S/1261,16/09/2022,"Phugewadi/Dapodi, sai service",Genepath,32.9874,0,36.6172,Negative
+1262,SSBS/M/2022/1262,S/1262,16/09/2022,"Harris Bridge, Dapodi",Genepath,0,0,0,Negative
+1263,SSBS/M/2022/1263,S/1263,19/09/2022,Shivajinagar Vaidhawadi,Genepath,28.7379,35.55726,32.2665,Positive
+1264,SSBS/M/2022/1264,S/1264,19/09/2022,Shivajinagar Chaturshringi,Genepath,30.1461,40.3936,33.9034,Positive
+1265,SSBS/M/2022/1265,S/1265,19/09/2022,Karve road Kothrud,Genepath,0,0,0,Negative
+1266,SSBS/M/2022/1266,S/1266,19/09/2022,Warje Mumbai/Bangalore Highway,Genepath,30.6075,0,35.3949,Positive
+1267,SSBS/M/2022/1267,S/1267,19/09/2022,Kothrud Bus depot,Genepath,0,0,0,Negative
+1268,SSBS/M/2022/1268,S/1268,20/09/2022,"Baner, Mahalunge Bridge",Genepath,38.299,0,0,Negative
+1269,SSBS/M/2022/1269,S/1269,20/09/2022,Baner/Balewadi,Genepath,31.7672,0,36.0838,Negative
+1270,SSBS/M/2022/1270,S/1270,20/09/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,38.9858,0,Negative
+1271,SSBS/M/2022/1271,S/1271,20/09/2022,Someshwarwadi,Genepath,0,0,0,Negative
+1272,SSBS/M/2022/1272,S/1272,20/09/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+1273,SSBS/M/2022/1273,S/1273,20/09/2022,"DP road, Botanical Garden, Aundh",Genepath,31.8111,0,35.2529,Positive
+1274,SSBS/M/2022/1274,S/1274,21/09/2022,Dattawadi under rajaram bridge,Genepath,0,37.5114,0,Negative
+1275,SSBS/M/2022/1275,S/1275,21/09/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,28.4627,33.8247,31.5629,Positive
+1276,SSBS/M/2022/1276,S/1276,21/09/2022,Shivajinagar Juna bazaar,Genepath,35.8866,0,36.7003,Negative
+1277,SSBS/M/2022/1277,S/1277,21/09/2022,"Vishrantwadi, shantinagar",Genepath,29.6426,0,31.05653,Positive
+1278,SSBS/M/2022/1278,S/1278,22/09/2022,"Chinchwad, Aditya birla hospital",Genepath,0,37.5005,0,Negative
+1279,SSBS/M/2022/1279,S/1279,22/09/2022,"Shastrinagar, pimpri",Genepath,30.5235,36.19034,34.54935,Positive
+1280,SSBS/M/2022/1280,S/1280,22/09/2022,kasarwadi pimple gurav road,Genepath,0,38.0283,39.1701,Negative
+1281,SSBS/M/2022/1281,S/1281,22/09/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,0,Negative
+1282,SSBS/M/2022/1282,S/1282,23/09/2022,Rahatni new DP road,Genepath,33.5229,0,35.1472,Positive
+1283,SSBS/M/2022/1283,S/1283,23/09/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
+1284,SSBS/M/2022/1284,S/1284,23/09/2022,"Harris Bridge, Dapodi",Genepath,38.7616,0,37.9391,Negative
+1285,SSBS/M/2022/1285,S/1285,26/09/2022,Shivajinagar Vaidhawadi,Genepath,30.44,0,33.4,Positive
+1286,SSBS/M/2022/1286,S/1286,26/09/2022,Shivajinagar Chaturshringi,Genepath,30.93,0,32.7,Positive
+1287,SSBS/M/2022/1287,S/1287,26/09/2022,Karve road Kothrud,Genepath,0,0,30.8,Negative
+1288,SSBS/M/2022/1288,S/1288,26/09/2022,Warje Mumbai/Bangalore Highway,Genepath,0,0,0,Negative
+1289,SSBS/M/2022/1289,S/1289,26/09/2022,Kothrud Bus depot,Genepath,0,0,0,Negative
+1290,SSBS/M/2022/1290,S/1290,27/09/2022,"Baner, Mahalunge Bridge",Genepath,0,0,0,Negative
+1291,SSBS/M/2022/1291,S/1291,27/09/2022,Baner/Balewadi,Genepath,30.77,29.34,32.49,Positive
+1292,SSBS/M/2022/1292,S/1292,27/09/2022,"Pune/Mumbai Highway, Aundh/Sangvi",Genepath,0,38.73,0,Negative
+1293,SSBS/M/2022/1293,S/1293,27/09/2022,Someshwarwadi,Genepath,0,0,14.94,Negative
+1294,SSBS/M/2022/1294,S/1294,27/09/2022,Jai bhavani nagar pashan,Genepath,0,0,0,Negative
+1295,SSBS/M/2022/1295,S/1295,27/09/2022,"DP road, Botanical Garden, Aundh",Genepath,0,37.95,23.67,Negative
+1296,SSBS/M/2022/1296,S/1296,28/09/2022,Dattawadi under rajaram bridge,Genepath,0,0,0,Negative
+1297,SSBS/M/2022/1297,S/1297,28/09/2022,"Vitthalwadi hingne, off sinhagad road",Genepath,0,0,35.44,Negative
+1298,SSBS/M/2022/1298,S/1298,28/09/2022,Shivajinagar Juna bazaar,Genepath,36.21,0,33.63,Negative
+1299,SSBS/M/2022/1299,S/1299,28/09/2022,"Vishrantwadi, shantinagar",Genepath,0,37.34,0,Negative
+1300,SSBS/M/2022/1300,S/1300,29/09/2022,"Chinchwad, Aditya birla hospital",Genepath,0,39.48,31.86,Negative
+1301,SSBS/M/2022/1301,S/1301,29/09/2022,"Shastrinagar, pimpri",Genepath,41.79,37.2,34.04,Negative
+1302,SSBS/M/2022/1302,S/1302,29/09/2022,kasarwadi pimple gurav road,Genepath,0,0,0,Negative
+1303,SSBS/M/2022/1303,S/1303,29/09/2022,Dapodi / Old sangvi Bridge,Genepath,0,0,23.81,Negative
+1304,SSBS/M/2022/1304,S/1304,30/09/2022,Rahatni new DP road,Genepath,0,0,0,Negative
+1305,SSBS/M/2022/1305,S/1305,30/09/2022,"Phugewadi/Dapodi, sai service",Genepath,0,0,0,Negative
